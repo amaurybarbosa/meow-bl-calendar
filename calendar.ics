@@ -1,0 +1,830 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Meow BL Calendar//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meow BLs
+X-WR-CALDESC:Calendário de BLs em exibição acompanhados pelo Meow Fansub
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:82b381fe9d583b683e4950b2b6f6c7fda002e164@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:📺 EP 7 • Nó / Knot
+DESCRIPTION:EP 7 de Nó (Knot). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/no/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a84537016088363fddc71f2dc4d2bb1d96c388c6@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:📺 EP 8 • Nó / Knot
+DESCRIPTION:EP 8 de Nó (Knot). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/no/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a8fd118fe34d61121073f49a4e5e749ab3887f0b@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:📺 EP 9 • Nó / Knot
+DESCRIPTION:EP 9 de Nó (Knot). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/no/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7f18a78b860bb61dc57c6c66c59e06723114c37d@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:📺 EP 10 • Nó / Knot
+DESCRIPTION:EP 10 de Nó (Knot). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/no/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0a458d789e599837950513ef032007dbb8148121@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+SUMMARY:📺 EP 5 • Destino do Amor / Love Destiny
+DESCRIPTION:EP 5 de Destino do Amor (Love Destiny). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/destino-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2b10d757a75c14c9b99837e43a8cb4e481920747@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:📺 EP 6 • Destino do Amor / Love Destiny
+DESCRIPTION:EP 6 de Destino do Amor (Love Destiny). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/destino-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc7e70e54cb2dee6b6fce9f71abe8c30b653e91d@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260825
+DTEND;VALUE=DATE:20260826
+SUMMARY:📺 EP 7 • Destino do Amor / Love Destiny
+DESCRIPTION:EP 7 de Destino do Amor (Love Destiny). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/destino-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:69bfef5f1067490ae5bd454a7341a925f28f2aeb@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260901
+DTEND;VALUE=DATE:20260902
+SUMMARY:📺 EP 8 • Destino do Amor / Love Destiny
+DESCRIPTION:EP 8 de Destino do Amor (Love Destiny). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/destino-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:86446274e013f517b2acbc9ece8b0e34ef50d2e3@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:📺 EP 5 • Algoritmo do Amor / Love Algorithm
+DESCRIPTION:EP 5 de Algoritmo do Amor (Love Algorithm). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/algoritmo-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:10a6b08c00e3974f4d74fd8b4951e2625e1f0bd4@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:📺 EP 6 • Algoritmo do Amor / Love Algorithm
+DESCRIPTION:EP 6 de Algoritmo do Amor (Love Algorithm). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/algoritmo-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:61821e449dfb4dc86106cbe1f9600cd70240379e@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:📺 EP 7 • Algoritmo do Amor / Love Algorithm
+DESCRIPTION:EP 7 de Algoritmo do Amor (Love Algorithm). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/algoritmo-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d4ce9cb50507bdb9d1a2e661fc7fe68d085a5fa9@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:📺 EP 8 • Algoritmo do Amor / Love Algorithm
+DESCRIPTION:EP 8 de Algoritmo do Amor (Love Algorithm). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/algoritmo-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8994aba8e33b39e09d36e574daf5d24718cc9423@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:📺 EP 2 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+DESCRIPTION:EP 2 de Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim (After Moving Seats\, the Boy Behind Me Has a Crush on Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b48df10353453d7e67ca2dfdb01db49c8018b28c@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:📺 EP 3 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+DESCRIPTION:EP 3 de Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim (After Moving Seats\, the Boy Behind Me Has a Crush on Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:82782889d598e7eff6aa2b909b504bbcc7d09edb@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260827
+SUMMARY:📺 EP 4 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+DESCRIPTION:EP 4 de Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim (After Moving Seats\, the Boy Behind Me Has a Crush on Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a68a9417b819562822484b10d9143a64c524557@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:📺 EP 5 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+DESCRIPTION:EP 5 de Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim (After Moving Seats\, the Boy Behind Me Has a Crush on Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e8bf5811daa4e037132b423b04532c4468658191@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+SUMMARY:📺 EP 8 • FINAL • Meu Verão com Você / My Summer of You
+DESCRIPTION:EP 8 • FINAL de Meu Verão com Você (My Summer of You). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/meu-verao-com-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:31e6e47e58ffc3a1ee6da7bfa4b8d16c327b53fe@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:📺 EP 5 • Seja Meu Player Dois / Be My Player Two
+DESCRIPTION:EP 5 de Seja Meu Player Dois (Be My Player Two). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seja-meu-player-dois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:66aacb8f58c303b1288f99c005403ca3898132f8@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:📺 EP 6 • Seja Meu Player Dois / Be My Player Two
+DESCRIPTION:EP 6 de Seja Meu Player Dois (Be My Player Two). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seja-meu-player-dois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc5e29529c92bf026febc1cdc7b07f44162626a@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:📺 EP 7 • Seja Meu Player Dois / Be My Player Two
+DESCRIPTION:EP 7 de Seja Meu Player Dois (Be My Player Two). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seja-meu-player-dois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6a5fb706e107ce1bcdf95e289581e4d78af24afe@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:📺 EP 8 • Seja Meu Player Dois / Be My Player Two
+DESCRIPTION:EP 8 de Seja Meu Player Dois (Be My Player Two). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seja-meu-player-dois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c51a5a21fe86f8dd07af9558fbd4075d386e294c@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:📺 EP 8 • Quando a Luz se Vai / When Light Fades
+DESCRIPTION:EP 8 de Quando a Luz se Vai (When Light Fades). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/quando-a-luz-se-vai/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3e2806c872fc9cc56d2bfa73da8e7c55990971a0@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:📺 EP 9 • Quando a Luz se Vai / When Light Fades
+DESCRIPTION:EP 9 de Quando a Luz se Vai (When Light Fades). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/quando-a-luz-se-vai/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5bba36e4f5d22c6753c205fa6ddb747734f26416@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:📺 EP 10 • FINAL • Quando a Luz se Vai / When Light Fades
+DESCRIPTION:EP 10 • FINAL de Quando a Luz se Vai (When Light Fades). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/quando-a-luz-se-vai/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2f1a202d83a1ea464fc84ac4581e791fba2735b0@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:📺 EP 2 • Mozão Azarado / Unlucky Bae
+DESCRIPTION:EP 2 de Mozão Azarado (Unlucky Bae). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/mozao-azarado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6331340dc51fb566eaf3278df578ee02216329a4@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260820
+DTEND;VALUE=DATE:20260821
+SUMMARY:📺 EP 3 • Mozão Azarado / Unlucky Bae
+DESCRIPTION:EP 3 de Mozão Azarado (Unlucky Bae). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/mozao-azarado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b68f33036df267240ebf791cbfe55abf21c41173@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260827
+DTEND;VALUE=DATE:20260828
+SUMMARY:📺 EP 4 • Mozão Azarado / Unlucky Bae
+DESCRIPTION:EP 4 de Mozão Azarado (Unlucky Bae). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/mozao-azarado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f8dd0ec08efd055161e05b8b85a0b05dde548545@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:📺 EP 5 • Mozão Azarado / Unlucky Bae
+DESCRIPTION:EP 5 de Mozão Azarado (Unlucky Bae). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/mozao-azarado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6f81f69aef21be0a6763d35f0f255ea69c6f99b3@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:📺 EP 8 • Não Seja Tão Sentimental / Don't Be Too Emotional
+DESCRIPTION:EP 8 de Não Seja Tão Sentimental (Don't Be Too Emotional). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/nao-seja-tao-sentimental/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:dffcfaffa166296a13d1137d6575fedb042a0cc4@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:📺 EP 9 • Não Seja Tão Sentimental / Don't Be Too Emotional
+DESCRIPTION:EP 9 de Não Seja Tão Sentimental (Don't Be Too Emotional). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/nao-seja-tao-sentimental/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a8c576ba980c3a452e8543767107033ee69e9c7@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:📺 EP 10 • Não Seja Tão Sentimental / Don't Be Too Emotional
+DESCRIPTION:EP 10 de Não Seja Tão Sentimental (Don't Be Too Emotional). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/nao-seja-tao-sentimental/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0d24a21c73a5d5b7d70f502e4fdcd4f72a7426@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:📺 EP 11 • Não Seja Tão Sentimental / Don't Be Too Emotional
+DESCRIPTION:EP 11 de Não Seja Tão Sentimental (Don't Be Too Emotional). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/nao-seja-tao-sentimental/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:534e5dc010a32a26c8209bf99058769303516d74@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:📺 EP 5 • Faça Dar Certo 2026 / Make it Right 2026
+DESCRIPTION:EP 5 de Faça Dar Certo 2026 (Make it Right 2026). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/faca-dar-certo-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba1fe12977dcd94151aabdac4c9b39f04ca33aa@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:📺 EP 6 • Faça Dar Certo 2026 / Make it Right 2026
+DESCRIPTION:EP 6 de Faça Dar Certo 2026 (Make it Right 2026). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/faca-dar-certo-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b8e01d4e2dfce60639161fcf167c14d484a6a548@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:📺 EP 7 • Faça Dar Certo 2026 / Make it Right 2026
+DESCRIPTION:EP 7 de Faça Dar Certo 2026 (Make it Right 2026). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/faca-dar-certo-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:19cde348a83f76db5c6e6a17b3140553ece3dc62@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:📺 EP 8 • Faça Dar Certo 2026 / Make it Right 2026
+DESCRIPTION:EP 8 de Faça Dar Certo 2026 (Make it Right 2026). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/faca-dar-certo-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a3208da316e9b9b14d4699dc23bf46f7ccd29acd@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:📺 EP 4 • Crush Colegial Complicado / Class Crush Crisis
+DESCRIPTION:EP 4 de Crush Colegial Complicado (Class Crush Crisis). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/crush-colegial-complicado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95dddd6bb33bbfeda73ce57b6ab647d6b903e951@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:📺 EP 5 • Crush Colegial Complicado / Class Crush Crisis
+DESCRIPTION:EP 5 de Crush Colegial Complicado (Class Crush Crisis). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/crush-colegial-complicado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ca3be6e60c1bfdba36331e37971fa8e7087be0e2@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:📺 EP 6 • Crush Colegial Complicado / Class Crush Crisis
+DESCRIPTION:EP 6 de Crush Colegial Complicado (Class Crush Crisis). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/crush-colegial-complicado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7838ba405d20654bf545aee575fd32b694c37711@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:📺 EP 7 • Crush Colegial Complicado / Class Crush Crisis
+DESCRIPTION:EP 7 de Crush Colegial Complicado (Class Crush Crisis). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/crush-colegial-complicado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2836b5c8a5f8adc75d4c3c3dfdec15647b7bbf82@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:📺 EP 7 • O Príncipe Servo / The Servant Prince
+DESCRIPTION:EP 7 de O Príncipe Servo (The Servant Prince). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-principe-servo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c5ee483f325bb797db21e5a778b83d0324aa513f@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:📺 EP 8 • O Príncipe Servo / The Servant Prince
+DESCRIPTION:EP 8 de O Príncipe Servo (The Servant Prince). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-principe-servo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae7446d834b2d558253188af17bb77dadd7887ed@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+SUMMARY:📺 EP 9 • O Príncipe Servo / The Servant Prince
+DESCRIPTION:EP 9 de O Príncipe Servo (The Servant Prince). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-principe-servo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a617849c3d1b33477dff592b8933f60d7e7885e6@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:📺 EP 10 • O Príncipe Servo / The Servant Prince
+DESCRIPTION:EP 10 de O Príncipe Servo (The Servant Prince). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-principe-servo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:2dfd7398757ce86de48711f9473c8424f8752cf7@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:📺 EP 2 • Unhas de Garoto 2 / GelBoys 2
+DESCRIPTION:EP 2 de Unhas de Garoto 2 (GelBoys 2). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/unhas-de-garoto-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:851994e41d36d5973cafc1c2a7023100c5536fe4@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:📺 EP 3 • Unhas de Garoto 2 / GelBoys 2
+DESCRIPTION:EP 3 de Unhas de Garoto 2 (GelBoys 2). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/unhas-de-garoto-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a7dc8030626b0bd9b755756c12c6619fc64a9c96@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:📺 EP 4 • Unhas de Garoto 2 / GelBoys 2
+DESCRIPTION:EP 4 de Unhas de Garoto 2 (GelBoys 2). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/unhas-de-garoto-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:47cd0e7f28eb3aa3c5b1518b67487db15f26ba8c@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:📺 EP 5 • Unhas de Garoto 2 / GelBoys 2
+DESCRIPTION:EP 5 de Unhas de Garoto 2 (GelBoys 2). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/unhas-de-garoto-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:95528e941811603dd6658e239359aefa5aacd4ad@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:📺 EP 3 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+DESCRIPTION:EP 3 de Seu Céu: Japão (Your Sky: Hare Nochi Koi). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-ceu-japao/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f0bd2045aed88c63fd89717a07c7304c2ce3b8e6@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:📺 EP 4 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+DESCRIPTION:EP 4 de Seu Céu: Japão (Your Sky: Hare Nochi Koi). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-ceu-japao/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7b455ee23384fc47b9198b3cd4ad87cf1522e7ca@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:📺 EP 5 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+DESCRIPTION:EP 5 de Seu Céu: Japão (Your Sky: Hare Nochi Koi). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-ceu-japao/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5a0ad226712d2e680e62074a2b2ac70a42b4bb4d@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:📺 EP 6 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+DESCRIPTION:EP 6 de Seu Céu: Japão (Your Sky: Hare Nochi Koi). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-ceu-japao/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4fe7a292864e9dc68cc600d4200552af309cfefd@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:📺 EP 6 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
+DESCRIPTION:EP 6 de Seu Verão\, Minha Tempestade (Summer Clouds Bring Love and Chaos). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-verao-minha-tempestade/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8ad82b314d4b72ad5e9acb902fef15e38d42f741@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:📺 EP 7 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
+DESCRIPTION:EP 7 de Seu Verão\, Minha Tempestade (Summer Clouds Bring Love and Chaos). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-verao-minha-tempestade/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7579c2b867531e54bdc98721b91d03ab6c1c3778@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260829
+DTEND;VALUE=DATE:20260830
+SUMMARY:📺 EP 8 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
+DESCRIPTION:EP 8 de Seu Verão\, Minha Tempestade (Summer Clouds Bring Love and Chaos). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-verao-minha-tempestade/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:228af44b30ae5adde8a5c24c706d27010d0f4c14@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:📺 EP 9 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
+DESCRIPTION:EP 9 de Seu Verão\, Minha Tempestade (Summer Clouds Bring Love and Chaos). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-verao-minha-tempestade/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:08fbd70ced6682a8fc8ce4dca80dbea7d76fd838@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:📺 EP 9 • A Linha do Horizonte / The Edge of Horizon
+DESCRIPTION:EP 9 de A Linha do Horizonte (The Edge of Horizon). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/a-linha-do-horizonte/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a78d1722703ccfaf671564f8291b818bcaedc853@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260822
+DTEND;VALUE=DATE:20260823
+SUMMARY:📺 EP 10 • A Linha do Horizonte / The Edge of Horizon
+DESCRIPTION:EP 10 de A Linha do Horizonte (The Edge of Horizon). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/a-linha-do-horizonte/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ff376f78c9e5e424c9833e2959af2b256e3138f3@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:📺 EP 4 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+DESCRIPTION:EP 4 de Dever Primeiro\, Beijo Depois (Duty First\, Kiss Later). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b802eb064e2ca6feb2eca3853fdb253b6fe2433b@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:📺 EP 5 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+DESCRIPTION:EP 5 de Dever Primeiro\, Beijo Depois (Duty First\, Kiss Later). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f51800cb5997298c7ce273f62fdee552a9f13fc6@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:📺 EP 6 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+DESCRIPTION:EP 6 de Dever Primeiro\, Beijo Depois (Duty First\, Kiss Later). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4063471b8c3b6023e8c28a409a9028d3d456aef1@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:📺 EP 7 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+DESCRIPTION:EP 7 de Dever Primeiro\, Beijo Depois (Duty First\, Kiss Later). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:114cb0a1fb469b9682895d69ea0489be4767bfca@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:📺 EP 4 • Seu Terceiro / Your Third
+DESCRIPTION:EP 4 de Seu Terceiro (Your Third). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:db6ed47a900199729fd621e4bf317ecd4117985a@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:📺 EP 5 • Seu Terceiro / Your Third
+DESCRIPTION:EP 5 de Seu Terceiro (Your Third). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:de99155396c978c8c92f740e7d18cd56f9d00066@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:📺 EP 6 • Seu Terceiro / Your Third
+DESCRIPTION:EP 6 de Seu Terceiro (Your Third). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:936118b2cf13a4339f5b15d4ce035e86fe37c966@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:📺 EP 7 • Seu Terceiro / Your Third
+DESCRIPTION:EP 7 de Seu Terceiro (Your Third). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c826bf0c075ffce0449d4b9fbe7cc064f93f5fb1@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:📺 EP 4 • Ponto Decisivo / Match Point
+DESCRIPTION:EP 4 de Ponto Decisivo (Match Point). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:232351899cd447b8d2091095b0db6e2a948d506a@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:📺 EP 5 • Ponto Decisivo / Match Point
+DESCRIPTION:EP 5 de Ponto Decisivo (Match Point). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8db3c482fdd49adbe72f6eca144c74d7ee489f11@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:📺 EP 6 • Ponto Decisivo / Match Point
+DESCRIPTION:EP 6 de Ponto Decisivo (Match Point). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a6d22aea61439f18ad4587348ebfa8d3cf164372@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:📺 EP 7 • Ponto Decisivo / Match Point
+DESCRIPTION:EP 7 de Ponto Decisivo (Match Point). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e8c239de9cc693070177fbcc1ab59a6ea2fc65@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:📺 EP 7 • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
+DESCRIPTION:EP 7 de Uma Bundinha Sexy Não Serve? (Are the Sexy Buttocks Not Good?). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:812ce9274595c9c6961540a54b9930e4af83190f@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:📺 EP 8 • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
+DESCRIPTION:EP 8 de Uma Bundinha Sexy Não Serve? (Are the Sexy Buttocks Not Good?). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e84eadff34dd54c94214c6a6b7ce6ad36d4fcbb3@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:📺 EP 9 • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
+DESCRIPTION:EP 9 de Uma Bundinha Sexy Não Serve? (Are the Sexy Buttocks Not Good?). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e516dda2d31f59cafd1f0f9684135aee8373d00@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:📺 EP 10 • FINAL • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
+DESCRIPTION:EP 10 • FINAL de Uma Bundinha Sexy Não Serve? (Are the Sexy Buttocks Not Good?). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:235ea5f8db16b45a1a5a389675fb101bef5af9f7@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+SUMMARY:📺 EP 2 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+DESCRIPTION:EP 2 de O Garoto Popular é Estranho Comigo (Popular Serizawa Acts Weird around Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ae09b75d8f6ab5378744666eef067f6a4400a8f3@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260824
+DTEND;VALUE=DATE:20260825
+SUMMARY:📺 EP 3 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+DESCRIPTION:EP 3 de O Garoto Popular é Estranho Comigo (Popular Serizawa Acts Weird around Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0d7d0ec51ad8a56e3b63f77e04ec93301eabc773@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:📺 EP 4 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+DESCRIPTION:EP 4 de O Garoto Popular é Estranho Comigo (Popular Serizawa Acts Weird around Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1b1b14e2d97fdb4e5d29c7304bd7d561a74df34d@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:📺 EP 5 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+DESCRIPTION:EP 5 de O Garoto Popular é Estranho Comigo (Popular Serizawa Acts Weird around Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7a9fd6632d667f0039cf57b0bcdc2e940920d2@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:📺 EP 5–6 • Nosso Ensaio Particular / Play Me
+DESCRIPTION:EP 5–6 de Nosso Ensaio Particular (Play Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/nosso-ensaio-particular/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a1340803e26b8607c0ab719b3edb76474b10be56@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:📺 EP 7–8 • FINAL • Nosso Ensaio Particular / Play Me
+DESCRIPTION:EP 7–8 • FINAL de Nosso Ensaio Particular (Play Me). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/nosso-ensaio-particular/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7831983aaa033273fdf4785a31521e5a2bc2d9f4@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:📺 EP 15 • O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera / A Winter Sun Wakes the Wind in Spring Hills' Dream
+DESCRIPTION:EP 15 de O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera (A Winter Sun Wakes the Wind in Spring Hills' Dream). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-sol-de-inverno-desperta-o-vento-no-sonho-das-colinas-da-primavera/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:56be562273f497d1f548c14fe82abb294ce222e1@meow-bl-calendar
+DTSTAMP:20260811T144556Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:📺 EP 16 • FINAL • O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera / A Winter Sun Wakes the Wind in Spring Hills' Dream
+DESCRIPTION:EP 16 • FINAL de O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera (A Winter Sun Wakes the Wind in Spring Hills' Dream). Data prevista com base na cadência recente de lançamentos do Meow Fansub. A publicação da legenda pode sofrer alteração.
+URL:https://meowbls.com/series/o-sol-de-inverno-desperta-o-vento-no-sonho-das-colinas-da-primavera/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
