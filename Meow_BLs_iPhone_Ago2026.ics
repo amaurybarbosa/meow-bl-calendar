@@ -1,0 +1,281 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//OpenAI//Meow BL Calendar//PT-BR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Meow BLs
+X-WR-CALDESC:Previsão semanal de novos episódios legendados pelo Meow Fansub
+BEGIN:VEVENT
+UID:c89fc9379a46b90caeb5a1a50f747fe62cd61d42@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Nó / Knot
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/no/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a9e18d7c8cffde124751f10e18dbd2dc35702f@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260811
+DTEND;VALUE=DATE:20260812
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Destino do Amor / Love Destiny
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/destino-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:30ed55f5d0f3d18067fd3be8814c35701de2b180@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Algoritmo do Amor / Love Algorithm
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/algoritmo-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a30ede23ab714e71fbfec0e782e78ad93b78f86a@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:70e41a821c938864ad1e81782031f76a189e110a@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260812
+DTEND;VALUE=DATE:20260813
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Meu Verão com Você / My Summer of You
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/meu-verao-com-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a81172f589961d747eaff4a05bb031ee6431fd1b@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Seja Meu Player Dois / Be My Player Two
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/seja-meu-player-dois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ba542548ae7e1ae0e656f8890514e5f3b007083c@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Quando a Luz se Vai / When Light Fades
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/quando-a-luz-se-vai/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9b4ca5a52094fc96f401a42cc6245af0b0e1d708@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Mozão Azarado / Unlucky Bae
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/mozao-azarado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bc336798f89c616bc955fd2a972fd79b00ca82bf@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Não Seja Tão Sentimental / Don't Be Too Emotional
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/nao-seja-tao-sentimental/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e3fbf6cad78c86e285086a55e6a9a3f62a0d1111@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Amor Agridoce / Bittersweet Love
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/amor-agridoce/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d30869b0f72bf0626b2ecd6f1f449752556d5253@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Faça Dar Certo 2026 / Make it Right 2026
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/faca-dar-certo-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:28473cd60530e56e2fec473dabb98e8c7728dcfd@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Crush Colegial Complicado / Class Crush Crisis
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/crush-colegial-complicado/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b890aec1c9af95013c96e08420891d509e4733cd@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • O Príncipe Servo / The Servant Prince
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/o-principe-servo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a454d14856ff41793d88229b3ae8b91c392e6fe9@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Nosso Ensaio Particular / Play Me
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/nosso-ensaio-particular/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:d441392841e8f0e6fabaddb855fa772745a94d46@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Unhas de Garoto 2 / GelBoys 2
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/unhas-de-garoto-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6f93d0251806a84908cff6cf05ac3d43aed7ed5e@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/seu-ceu-japao/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:34e17dea2f37684bb7ba8966390417e445eea351@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/seu-verao-minha-tempestade/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:09ffca0246658c498a224078a0488814af5c489a@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+RRULE:FREQ=WEEKLY;COUNT=2
+SUMMARY:📺 Meow BL • A Linha do Horizonte / The Edge of Horizon
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/a-linha-do-horizonte/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:b2b2585f0ef74d4a281b470a6a90be80445bb46a@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:15714b197000583ad6478df72bc7ef552096f0fc@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Seu Terceiro / Your Third
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0dc95517ce3ce6e84726c335fbc7859599b02e3f@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Ponto Decisivo / Match Point
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:809bbd3a0311940159111412114018e642e657b3@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:5499541f1e7c5322b944351140fe470116f2ba8a@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260817
+DTEND;VALUE=DATE:20260818
+RRULE:FREQ=WEEKLY;COUNT=4
+SUMMARY:📺 Meow BL • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+DESCRIPTION:Novo episódio esperado no Meow Fansub neste dia. Previsão baseada na cadência recente de publicação\; a legenda pode sair mais cedo ou mais tarde. Calendário gerado em 11/08/2026.
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:96953d9345625b7b5eb9aa51b936dc9edc2c87db@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260815
+SUMMARY:📺 Meow BL • O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera / A Winter Sun Wakes the Wind in Spring Hills' Dream
+DESCRIPTION:EP 15 esperado. Novo episódio esperado no Meow Fansub\; a hora da legenda pode variar.
+URL:https://meowbls.com/series/o-sol-de-inverno-desperta-o-vento-no-sonho-das-colinas-da-primavera/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:1dd646f336be265d2fa41b6035e35b4384ddfbba@meowbl
+DTSTAMP:20260811T141534Z
+DTSTART;VALUE=DATE:20260815
+DTEND;VALUE=DATE:20260816
+SUMMARY:📺 Meow BL • O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera / A Winter Sun Wakes the Wind in Spring Hills' Dream
+DESCRIPTION:EP 16 (final) esperado. Novo episódio esperado no Meow Fansub\; a hora da legenda pode variar.
+URL:https://meowbls.com/series/o-sol-de-inverno-desperta-o-vento-no-sonho-das-colinas-da-primavera/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
