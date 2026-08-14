@@ -1221,4 +1221,14 @@ URL:https://meowbls.com/series/calma-ai-harutora-kun/
 TRANSP:TRANSPARENT
 END:VEVENT
 
+BEGIN:VEVENT
+UID:popular-serizawa-ep1-20260810@meow-bl-calendar
+DTSTAMP:20260814T221000Z
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+SUMMARY:📺 EP 1 • ESTREIA • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
 END:VCALENDAR
