@@ -1211,4 +1211,14 @@ URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
 TRANSP:TRANSPARENT
 END:VEVENT
 
+BEGIN:VEVENT
+UID:54a0cb5bc6b32cb9f3b4bf6c0954766edc15b5a1@meow-bl-calendar
+DTSTAMP:20260814T000300Z
+DTSTART;VALUE=DATE:20260813
+DTEND;VALUE=DATE:20260814
+SUMMARY:📺 EP 1 • ESTREIA • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
+URL:https://meowbls.com/series/calma-ai-harutora-kun/
+TRANSP:TRANSPARENT
+END:VEVENT
+
 END:VCALENDAR
