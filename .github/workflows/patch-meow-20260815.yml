@@ -1,0 +1,98 @@
+name: Patch Meow calendar 2026-08-15
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/patch-meow-20260815.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Correct current Meow BL entries
+        shell: python
+        run: |
+          import re
+          from pathlib import Path
+
+          path = Path('calendar.ics')
+          text = path.read_text(encoding='utf-8').replace('\r\n', '\n')
+          header = text.split('BEGIN:VEVENT', 1)[0].rstrip()
+          events = re.findall(r'BEGIN:VEVENT\n.*?END:VEVENT', text, flags=re.S)
+
+          kept = []
+          for event in events:
+              if 'Connecting to You' in event:
+                  continue
+              if 'WEIRDO-101' in event or 'Curso Básico de Esquisitice 101' in event:
+                  continue
+              if 'Harutora-kun' in event:
+                  continue
+              if 'Amor Agridoce' in event:
+                  continue
+              kept.append(event)
+
+          additions = [
+              '''BEGIN:VEVENT
+          UID:54a0cb5bc6b32cb9f3b4bf6c0954766edc15b5a1@meow-bl-calendar
+          DTSTAMP:20260815T222000Z
+          DTSTART;VALUE=DATE:20260814
+          DTEND;VALUE=DATE:20260815
+          SUMMARY:📺 EP 1 • ESTREIA • Calma Aí\\, Harutora-kun / Wait a Minute\\, Harutora-kun
+          URL:https://meowbls.com/series/calma-ai-harutora-kun/
+          TRANSP:TRANSPARENT
+          END:VEVENT''',
+              '''BEGIN:VEVENT
+          UID:133168af50c835dc81eb1b09aa3928a3b242d169@meow-bl-calendar
+          DTSTAMP:20260815T222000Z
+          DTSTART;VALUE=DATE:20260814
+          DTEND;VALUE=DATE:20260815
+          SUMMARY:📺 EP 1 • ESTREIA • Curso Básico de Esquisitice 101 / WEIRDO-101
+          URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
+          TRANSP:TRANSPARENT
+          END:VEVENT''',
+              '''BEGIN:VEVENT
+          UID:amor-agridoce-ep11-20260815@meow-bl-calendar
+          DTSTAMP:20260815T222000Z
+          DTSTART;VALUE=DATE:20260815
+          DTEND;VALUE=DATE:20260816
+          SUMMARY:📺 EP 11 • Amor Agridoce / Bittersweet Love
+          URL:https://meowbls.com/series/amor-agridoce/
+          TRANSP:TRANSPARENT
+          END:VEVENT''',
+              '''BEGIN:VEVENT
+          UID:amor-agridoce-ep12-20260822@meow-bl-calendar
+          DTSTAMP:20260815T222000Z
+          DTSTART;VALUE=DATE:20260822
+          DTEND;VALUE=DATE:20260823
+          SUMMARY:📺 EP 12 • FINAL • Amor Agridoce / Bittersweet Love
+          URL:https://meowbls.com/series/amor-agridoce/
+          TRANSP:TRANSPARENT
+          END:VEVENT'''
+          ]
+
+          # Strip YAML indentation from the multiline literals.
+          additions = ['\n'.join(line.strip() for line in ev.splitlines()) for ev in additions]
+          new_text = header + '\n\n' + '\n\n'.join(kept + additions) + '\n\nEND:VCALENDAR\n'
+          path.write_text(new_text, encoding='utf-8')
+
+      - name: Commit calendar correction and remove temporary workflow
+        run: |
+          rm .github/workflows/patch-meow-20260815.yml
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add calendar.ics .github/workflows/patch-meow-20260815.yml
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git commit -m "chore: correct Meow BL calendar"
+          git push origin main
