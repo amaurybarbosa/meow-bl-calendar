@@ -1538,4 +1538,145 @@ URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
 TRANSP:TRANSPARENT
 END:VEVENT
 
+
+BEGIN:VEVENT
+UID:amor-ao-cubo-ep1-20260816@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:📺 EP 1 • ESTREIA • Amor Ao Cubo / Love³
+URL:https://meowbls.com/series/amor-ao-cubo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep1-20260816@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20260816
+DTEND;VALUE=DATE:20260817
+SUMMARY:📺 EP 1 • ESTREIA • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep2-20260823@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260824
+SUMMARY:📺 EP 2 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep3-20260830@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20260830
+DTEND;VALUE=DATE:20260831
+SUMMARY:📺 EP 3 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep4-20260906@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:📺 EP 4 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep5-20260913@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:📺 EP 5 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep6-20260920@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:📺 EP 6 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep7-20260927@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:📺 EP 7 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep8-20261004@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+SUMMARY:📺 EP 8 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep9-20261011@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+SUMMARY:📺 EP 9 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep10-20261018@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+SUMMARY:📺 EP 10 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep11-20261025@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:📺 EP 11 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep12-20261101@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+SUMMARY:📺 EP 12 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:conectado-a-voce-ep13-20261108@meow-bl-calendar
+DTSTAMP:20260816T220600Z
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+SUMMARY:📺 EP 13 • FINAL • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
 END:VCALENDAR
