@@ -1,0 +1,95 @@
+name: Temporary Meow calendar fix 2026-08-19
+
+on:
+  push:
+    paths:
+      - '.github/workflows/temp-meow-fix-20260819.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Patch calendar
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path('calendar.ics')
+          text = path.read_text(encoding='utf-8')
+          original = text
+
+          # Meow confirmed the final Blue Lips episodes on 2026-08-19.
+          text = text.replace(
+              'SUMMARY:📺 EP 14–15 • Lábios Azuis / Blue Lips',
+              'SUMMARY:📺 EP 14–16 • FINAL • Lábios Azuis / Blue Lips'
+          )
+
+          # Remove the now-invalid projected EP16 on 2026-08-26.
+          text, removed = re.subn(
+              r'\nBEGIN:VEVENT\nUID:[^\n]+@meow-bl-calendar\nDTSTAMP:[^\n]+\nDTSTART;VALUE=DATE:20260826\nDTEND;VALUE=DATE:20260827\nSUMMARY:📺 EP 16 • FINAL • Lábios Azuis / Blue Lips\nURL:https://meowbls\.com/series/labios-azuis/\nTRANSP:TRANSPARENT\nEND:VEVENT\n',
+              '\n',
+              text,
+              count=1,
+          )
+          if removed != 1:
+              raise SystemExit(f'Expected to remove one projected Blue Lips EP16 event, removed={removed}')
+
+          additions = []
+          if 'UID:lost-to-light-specials-20260818@meow-bl-calendar' not in text:
+              additions.append('''BEGIN:VEVENT
+UID:lost-to-light-specials-20260818@meow-bl-calendar
+DTSTAMP:20260819T224600Z
+DTSTART;VALUE=DATE:20260818
+DTEND;VALUE=DATE:20260819
+SUMMARY:📺 ESPECIAL 1–2 • Me Perdi na Luz / Lost to Light
+URL:https://meowbls.com/series/me-perdi-na-luz/
+TRANSP:TRANSPARENT
+END:VEVENT
+''')
+
+          if 'UID:beijo-ou-bala-ep1-2-20260819@meow-bl-calendar' not in text:
+              additions.append('''BEGIN:VEVENT
+UID:beijo-ou-bala-ep1-2-20260819@meow-bl-calendar
+DTSTAMP:20260819T224600Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:📺 EP 1–2 • ESTREIA • Beijo ou Bala
+URL:https://meowbls.com/series/beijo-ou-bala/
+TRANSP:TRANSPARENT
+END:VEVENT
+''')
+
+          if additions:
+              marker = 'END:VCALENDAR'
+              if marker not in text:
+                  raise SystemExit('END:VCALENDAR not found')
+              text = text.replace(marker, '\n'.join(additions) + '\n' + marker, 1)
+
+          if text == original:
+              print('No calendar changes needed.')
+          else:
+              path.write_text(text, encoding='utf-8')
+              print('calendar.ics patched.')
+          PY
+
+      - name: Commit calendar change
+        shell: bash
+        run: |
+          if git diff --quiet -- calendar.ics; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- calendar.ics
+          git commit -m 'Update Meow releases for Aug 18-19'
+          git push origin HEAD:main
