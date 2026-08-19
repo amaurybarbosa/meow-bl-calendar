@@ -3,7 +3,7 @@ name: Temporary Meow calendar fix 2026-08-19
 on:
   push:
     paths:
-      - '.github/workflows/temp-meow-fix-20260819.yml'
+      - '.github/meow-fix-trigger-20260819'
 
 permissions:
   contents: write
@@ -27,13 +27,11 @@ jobs:
           text = path.read_text(encoding='utf-8')
           original = text
 
-          # Meow confirmed the final Blue Lips episodes on 2026-08-19.
           text = text.replace(
               'SUMMARY:📺 EP 14–15 • Lábios Azuis / Blue Lips',
               'SUMMARY:📺 EP 14–16 • FINAL • Lábios Azuis / Blue Lips'
           )
 
-          # Remove the now-invalid projected EP16 on 2026-08-26.
           text, removed = re.subn(
               r'\nBEGIN:VEVENT\nUID:[^\n]+@meow-bl-calendar\nDTSTAMP:[^\n]+\nDTSTART;VALUE=DATE:20260826\nDTEND;VALUE=DATE:20260827\nSUMMARY:📺 EP 16 • FINAL • Lábios Azuis / Blue Lips\nURL:https://meowbls\.com/series/labios-azuis/\nTRANSP:TRANSPARENT\nEND:VEVENT\n',
               '\n',
