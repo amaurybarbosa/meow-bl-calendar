@@ -1,5 +1,6 @@
 name: Temporary Meow calendar fix 2026-08-21
 
+# trigger 2
 on:
   push:
     paths:
@@ -27,13 +28,11 @@ jobs:
           text = path.read_text(encoding='utf-8')
           original = text
 
-          # Conectado a Você: Meow released episodes 1-4 together, then 5-6 together.
           text = text.replace(
               'SUMMARY:📺 EP 1 • ESTREIA • Conectado a Você / Connecting to You',
               'SUMMARY:📺 EP 1–4 • ESTREIA • Conectado a Você / Connecting to You'
           )
 
-          # Remove the invalidated weekly projections for episodes 2-13.
           text, removed = re.subn(
               r'\nBEGIN:VEVENT\nUID:conectado-a-voce-ep(?:2|3|4|5|6|7|8|9|10|11|12|13)-[^\n]+@meow-bl-calendar\nDTSTAMP:[^\n]+\nDTSTART;VALUE=DATE:[^\n]+\nDTEND;VALUE=DATE:[^\n]+\nSUMMARY:📺 EP (?:2|3|4|5|6|7|8|9|10|11|12|13)(?: • FINAL)? • Conectado a Você / Connecting to You\nURL:https://meowbls\.com/series/conectado-a-voce/\nTRANSP:TRANSPARENT\nEND:VEVENT\n',
               '\n',
@@ -53,7 +52,6 @@ SUMMARY:📺 EP 1–2 • ESTREIA • Cinzas
 TRANSP:TRANSPARENT
 END:VEVENT
 ''')
-
           if 'UID:conectado-a-voce-ep5-6-20260821@meow-bl-calendar' not in text:
               additions.append('''BEGIN:VEVENT
 UID:conectado-a-voce-ep5-6-20260821@meow-bl-calendar
@@ -65,24 +63,16 @@ URL:https://meowbls.com/series/conectado-a-voce/
 TRANSP:TRANSPARENT
 END:VEVENT
 ''')
-
           if additions:
               text = text.replace('END:VCALENDAR', '\n'.join(additions) + '\nEND:VCALENDAR', 1)
-
-          if text == original:
-              print('No calendar changes needed.')
-          else:
+          if text != original:
               path.write_text(text, encoding='utf-8')
-              print('calendar.ics patched.')
           PY
 
       - name: Commit calendar change
         shell: bash
         run: |
-          if git diff --quiet -- calendar.ics; then
-            echo 'No changes to commit.'
-            exit 0
-          fi
+          if git diff --quiet -- calendar.ics; then exit 0; fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
           git add -- calendar.ics
