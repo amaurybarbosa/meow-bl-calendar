@@ -1,0 +1,90 @@
+name: Temporary Meow calendar fix 2026-08-21
+
+on:
+  push:
+    paths:
+      - '.github/workflows/temp-meow-fix-20260821.yml'
+
+permissions:
+  contents: write
+
+jobs:
+  fix-calendar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Patch calendar
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import re
+
+          path = Path('calendar.ics')
+          text = path.read_text(encoding='utf-8')
+          original = text
+
+          # Conectado a Você: Meow released episodes 1-4 together, then 5-6 together.
+          text = text.replace(
+              'SUMMARY:📺 EP 1 • ESTREIA • Conectado a Você / Connecting to You',
+              'SUMMARY:📺 EP 1–4 • ESTREIA • Conectado a Você / Connecting to You'
+          )
+
+          # Remove the invalidated weekly projections for episodes 2-13.
+          text, removed = re.subn(
+              r'\nBEGIN:VEVENT\nUID:conectado-a-voce-ep(?:2|3|4|5|6|7|8|9|10|11|12|13)-[^\n]+@meow-bl-calendar\nDTSTAMP:[^\n]+\nDTSTART;VALUE=DATE:[^\n]+\nDTEND;VALUE=DATE:[^\n]+\nSUMMARY:📺 EP (?:2|3|4|5|6|7|8|9|10|11|12|13)(?: • FINAL)? • Conectado a Você / Connecting to You\nURL:https://meowbls\.com/series/conectado-a-voce/\nTRANSP:TRANSPARENT\nEND:VEVENT\n',
+              '\n',
+              text,
+          )
+          if removed != 12:
+              raise SystemExit(f'Expected 12 projected Connecting to You events, removed={removed}')
+
+          additions = []
+          if 'UID:cinzas-ep1-2-20260819@meow-bl-calendar' not in text:
+              additions.append('''BEGIN:VEVENT
+UID:cinzas-ep1-2-20260819@meow-bl-calendar
+DTSTAMP:20260821T220900Z
+DTSTART;VALUE=DATE:20260819
+DTEND;VALUE=DATE:20260820
+SUMMARY:📺 EP 1–2 • ESTREIA • Cinzas
+TRANSP:TRANSPARENT
+END:VEVENT
+''')
+
+          if 'UID:conectado-a-voce-ep5-6-20260821@meow-bl-calendar' not in text:
+              additions.append('''BEGIN:VEVENT
+UID:conectado-a-voce-ep5-6-20260821@meow-bl-calendar
+DTSTAMP:20260821T220900Z
+DTSTART;VALUE=DATE:20260821
+DTEND;VALUE=DATE:20260822
+SUMMARY:📺 EP 5–6 • Conectado a Você / Connecting to You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+''')
+
+          if additions:
+              text = text.replace('END:VCALENDAR', '\n'.join(additions) + '\nEND:VCALENDAR', 1)
+
+          if text == original:
+              print('No calendar changes needed.')
+          else:
+              path.write_text(text, encoding='utf-8')
+              print('calendar.ics patched.')
+          PY
+
+      - name: Commit calendar change
+        shell: bash
+        run: |
+          if git diff --quiet -- calendar.ics; then
+            echo 'No changes to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add -- calendar.ics
+          git commit -m 'Update Meow releases through Aug 21'
+          git push origin HEAD:main
