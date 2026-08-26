@@ -1,7 +1,7 @@
 name: Retry Meow calendar update
 on:
-  push:
-    branches: [main]
+  pull_request:
+    types: [opened, synchronize]
 jobs:
   patch:
     if: github.actor != 'github-actions[bot]'
@@ -16,33 +16,24 @@ jobs:
           from pathlib import Path
           from datetime import date, timedelta
           import hashlib, re
-          p=Path('calendar.ics')
-          s=p.read_text()
+          p=Path('calendar.ics'); s=p.read_text()
           def remove_matching(title, eps=None, final=False):
               global s
-              blocks=s.split('BEGIN:VEVENT')
-              out=[blocks[0]]
+              blocks=s.split('BEGIN:VEVENT'); out=[blocks[0]]
               for b in blocks[1:]:
-                  block='BEGIN:VEVENT'+b
-                  summary=re.search(r'SUMMARY:(.*)', block)
-                  if not summary:
-                      out.append(b); continue
-                  text=summary.group(1)
-                  if title not in text:
-                      out.append(b); continue
-                  if final and 'FINAL' in text:
-                      continue
-                  if eps and any(re.search(rf'EP\s*{n}(?:\D|$)', text) for n in eps):
-                      continue
+                  block='BEGIN:VEVENT'+b; m=re.search(r'SUMMARY:(.*)', block)
+                  if not m or title not in m.group(1): out.append(b); continue
+                  text=m.group(1)
+                  if final and 'FINAL' in text: continue
+                  if eps and any(re.search(rf'EP\s*{n}(?:\D|$)', text) for n in eps): continue
                   out.append(b)
               s=''.join(out)
-          def add(title, d, summary, url):
+          def add(title,d,summary,url):
               global s
               uid=hashlib.sha1(f'{title}|{d}|{summary}'.encode()).hexdigest()+'@meow-bl-calendar'
-              if uid in s: return
+              if uid in s:return
               dt=date.fromisoformat(d); end=dt+timedelta(days=1)
-              s += f'\nBEGIN:VEVENT\nUID:{uid}\nDTSTAMP:20260826T170000Z\nDTSTART;VALUE=DATE:{d.replace("-","")}\nDTEND;VALUE=DATE:{end.strftime("%Y%m%d")}\nSUMMARY:{summary}\nURL:{url}\nTRANSP:TRANSPARENT\nEND:VEVENT\n'
-          # Confirmed 26/08 releases from Meow's current Telegram sequence.
+              s+=f'\nBEGIN:VEVENT\nUID:{uid}\nDTSTAMP:20260826T170000Z\nDTSTART;VALUE=DATE:{d.replace("-","")}\nDTEND;VALUE=DATE:{end.strftime("%Y%m%d")}\nSUMMARY:{summary}\nURL:{url}\nTRANSP:TRANSPARENT\nEND:VEVENT\n'
           items=[
             ('Não Seja Tão Sentimental',[9],'📺 EP 9 • Não Seja Tão Sentimental / Don\'t Be Too Emotional','https://meowbls.com/series/nao-seja-tao-sentimental/'),
             ('Conectado a Você',[5,6],'📺 EP 5–6 • Conectado a Você / Connecting to You','https://meowbls.com/series/conectado-a-voce/'),
@@ -60,15 +51,11 @@ jobs:
             ('A Linha do Horizonte',[10],'📺 EP 10 • A Linha do Horizonte','https://meowbls.com/series/a-linha-do-horizonte/'),
           ]
           for title,eps,summary,url in items:
-              remove_matching(title, eps=eps)
-              add(title,'2026-08-26',summary,url)
-          finals=[
+              remove_matching(title,eps=eps); add(title,'2026-08-26',summary,url)
+          for title,summary,url in [
             ('O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera','📺 EP FINAL • O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera','https://meowbls.com/series/o-sol-de-inverno-desperta-o-vento-no-sonho-das-colinas-da-primavera/'),
-            ('Nosso Ensaio Particular','📺 EP 7–8 • FINAL • Nosso Ensaio Particular / Play Me','https://meowbls.com/series/nosso-ensaio-particular/'),
-          ]
-          for title,summary,url in finals:
-              remove_matching(title, final=True)
-              add(title,'2026-08-26',summary,url)
+            ('Nosso Ensaio Particular','📺 EP 7–8 • FINAL • Nosso Ensaio Particular / Play Me','https://meowbls.com/series/nosso-ensaio-particular/')]:
+              remove_matching(title,final=True); add(title,'2026-08-26',summary,url)
           p.write_text(s)
           PY
       - name: Verify and commit
@@ -81,7 +68,7 @@ jobs:
           if missing: raise SystemExit('Missing: '+repr(missing))
           PY
           git config user.name github-actions[bot]
-          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git config user.email 41898282+users.noreply.github.com
           git add calendar.ics
           git commit -m 'Update Meow releases for Aug 26'
           git push
