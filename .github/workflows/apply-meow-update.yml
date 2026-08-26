@@ -1,0 +1,98 @@
+name: Apply Meow calendar update
+on:
+  push:
+    branches: [main]
+jobs:
+  update:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Patch calendar
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from datetime import date, timedelta
+          import hashlib, re
+          p=Path('calendar.ics'); s=p.read_text()
+          def remove(title, match=None):
+              global s
+              parts=s.split('BEGIN:VEVENT'); out=[parts[0]]
+              for x in parts[1:]:
+                  b='BEGIN:VEVENT'+x; m=re.search(r'^SUMMARY:(.*)$',b,re.M)
+                  if m and title in m.group(1) and (match is None or match(m.group(1))): continue
+                  out.append(x)
+              s=''.join(out)
+          def add(title,d,summary,url=''):
+              global s
+              if summary in s and f'DTSTART;VALUE=DATE:{d.replace("-","")}' in s: return
+              uid=hashlib.sha1(f'{title}|{d}|{summary}'.encode()).hexdigest()+'@meow-bl-calendar'
+              if uid in s:return
+              e=(date.fromisoformat(d)+timedelta(days=1)).strftime('%Y%m%d')
+              s+=f'\nBEGIN:VEVENT\nUID:{uid}\nDTSTAMP:20260826T180000Z\nDTSTART;VALUE=DATE:{d.replace("-","")}\nDTEND;VALUE=DATE:{e}\nSUMMARY:{summary}\n'+(f'URL:{url}\n' if url else '')+'TRANSP:TRANSPARENT\nEND:VEVENT\n'
+          # Corrections
+          remove('Amor Agridoce', lambda x:'EP 12' in x)
+          remove('Algoritmo do Amor', lambda x:'EP 7' in x)
+          # Confirmed 23/08
+          for title,summary,url in [
+           ('Seu Terceiro','📺 EP 5 • Seu Terceiro / Your Third','https://meowbls.com/series/seu-terceiro/'),
+           ('Dever Primeiro','📺 EP 5 • Dever Primeiro\\, Beijo Depois / Duty First\\, Kiss Later','https://meowbls.com/series/dever-primeiro-beijo-depois/'),
+           ('Ponto Decisivo','📺 EP 5 • Ponto Decisivo / Match Point','https://meowbls.com/series/ponto-decisivo/'),
+           ('Amor Ao Cubo','📺 EP 2 • Amor Ao Cubo / Love³','https://meowbls.com/series/amor-ao-cubo/'),
+           ('Conectado a Você','📺 EP 7–8 • Conectado a Você / Connecting to You','https://meowbls.com/series/conectado-a-voce/'),
+           ('Cinzas','📺 EP 3 • Cinzas / Ash','https://meowbls.com/series/cinzas/'),
+          ]: add(title,'2026-08-23',summary,url)
+          add('Uma Bundinha Sexy','2026-08-24','📺 EP 8 • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?','https://meowbls.com/series/uma-bundinha-sexy-nao-serve/')
+          for title,summary,url in [
+           ('Nó','📺 EP 9 • Nó / Knot','https://meowbls.com/series/no/'),
+           ('Destino do Amor','📺 EP 7 • Destino do Amor / Love Destiny','https://meowbls.com/series/destino-do-amor/'),
+           ('O Garoto Popular','📺 EP 3 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me','https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/'),
+           ('Nour','📺 EP 1–2 • ESTREIA • Nour','https://wetv.vip/pt/play/oesh7v03pj3v9ee/f4102iqt8a9-EP01%3A_NOUR'),
+          ]: add(title,'2026-08-25',summary,url)
+          # Nour known 10-episode schedule: EP3 02/09 through EP10 21/10
+          for i,d in enumerate(['2026-09-02','2026-09-09','2026-09-16','2026-09-23','2026-09-30','2026-10-07','2026-10-14','2026-10-21'],3):
+              add('Nour',d,f'📺 EP {i}'+(' • FINAL' if i==10 else '')+' • Nour','https://wetv.vip/pt/play/oesh7v03pj3v9ee/f4102iqt8a9-EP01%3A_NOUR')
+          # Confirmed 26/08
+          items=[
+           ('Não Seja Tão Sentimental','📺 EP 9 • Não Seja Tão Sentimental / Don\'t Be Too Emotional','https://meowbls.com/series/nao-seja-tao-sentimental/'),
+           ('Conectado a Você','📺 EP 5–6 • Conectado a Você / Connecting to You','https://meowbls.com/series/conectado-a-voce/'),
+           ('Curso Básico de Esquisitice 101','📺 EP 2 • Curso Básico de Esquisitice 101 / WEIRDO-101','https://meowbls.com/series/curso-basico-de-esquisitice-101/'),
+           ('Faça Dar Certo 2026','📺 EP 6 • Faça Dar Certo 2026 / Make it Right 2026','https://meowbls.com/series/faca-dar-certo-2026/'),
+           ('Crush Colegial Complicado','📺 EP 5 • Crush Colegial Complicado / Class Crush Crisis','https://meowbls.com/series/crush-colegial-complicado/'),
+           ('O Príncipe Servo','📺 EP 8 • O Príncipe Servo / The Servant Prince','https://meowbls.com/series/o-principe-servo/'),
+           ('Cinzas','📺 EP 4 • Cinzas / Ash','https://meowbls.com/series/cinzas/'),
+           ('Seu Terceiro','📺 EP 5 • Seu Terceiro / Your Third','https://meowbls.com/series/seu-terceiro/'),
+           ('Amor Ao Cubo','📺 EP 2 • Amor Ao Cubo / Love³','https://meowbls.com/series/amor-ao-cubo/'),
+           ('Ponto Decisivo','📺 EP 5 • Ponto Decisivo / Match Point','https://meowbls.com/series/ponto-decisivo/'),
+           ('Seu Verão Minha Tempestade','📺 EP 7 • Seu Verão\\, Minha Tempestade / Summer Clouds Bring Love and Chaos','https://meowbls.com/series/seu-verao-minha-tempestade/'),
+           ('Seu Céu Japão','📺 EP 4 • Seu Céu: Japão / Your Sky: Hare Nochi Koi','https://meowbls.com/series/seu-ceu-japao/'),
+           ('Unhas de Garoto 2','📺 EP 3 • Unhas de Garoto 2 / GelBoys 2','https://meowbls.com/series/unhas-de-garoto-2/'),
+           ('A Linha do Horizonte','📺 EP 10 • FINAL • A Linha do Horizonte / The Edge of Horizon','https://meowbls.com/series/a-linha-do-horizonte/'),
+          ]
+          for title,summary,url in items: add(title,'2026-08-26',summary,url)
+          # Summertime: official 10 eps, 2 every Friday from 28/08
+          for i,d in enumerate(['2026-08-28','2026-09-04','2026-09-11','2026-09-18','2026-09-25'],1):
+              a=2*i-1; b=2*i; add('Summertime',d,f'📺 EP {a}–{b}'+(' • FINAL' if b==10 else '')+' • Summertime','https://www.fujitv.co.jp/fujitv/news/20260885.html')
+          p.write_text(s)
+          PY
+      - name: Verify
+        run: |
+          grep -q 'EP 5 • Seu Terceiro' calendar.ics
+          grep -q 'EP 8 • Uma Bundinha Sexy' calendar.ics
+          grep -q 'EP 1–2 • ESTREIA • Nour' calendar.ics
+          grep -q 'EP 10 • FINAL • Nour' calendar.ics
+          grep -q 'EP 1–2 • Summertime' calendar.ics
+          grep -q 'EP 9–10 • FINAL • Summertime' calendar.ics
+          grep -q 'EP 10 • FINAL • A Linha do Horizonte' calendar.ics
+      - name: Commit and remove workflow
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add calendar.ics
+          git diff --cached --quiet || git commit -m 'Update Meow releases through Aug 26'
+          git push
+          git rm .github/workflows/apply-meow-update.yml
+          git commit -m 'Remove temporary Meow update workflow'
+          git push
