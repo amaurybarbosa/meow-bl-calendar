@@ -9,92 +9,12 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 
 BEGIN:VEVENT
-UID:82b381fe9d583b683e4950b2b6f6c7fda002e164@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-SUMMARY:📺 EP 7 • Nó / Knot
-URL:https://meowbls.com/series/no/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:a84537016088363fddc71f2dc4d2bb1d96c388c6@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:📺 EP 8 • Nó / Knot
-URL:https://meowbls.com/series/no/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:a8fd118fe34d61121073f49a4e5e749ab3887f0b@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:📺 EP 9 • Nó / Knot
-URL:https://meowbls.com/series/no/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
 UID:7f18a78b860bb61dc57c6c66c59e06723114c37d@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:📺 EP 10 • Nó / Knot
+SUMMARY:🐱 EP 10 • Nó / Knot
 URL:https://meowbls.com/series/no/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:e9fd2f1ae23ffcbe09b1fb2d0b40ff07dc8bac8a@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:📺 EP 11 • Nó / Knot
-URL:https://meowbls.com/series/no/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:b6be86a0c15619b99a6ac7d604d879aa15c930c5@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:📺 EP 12 • FINAL • Nó / Knot
-URL:https://meowbls.com/series/no/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:0a458d789e599837950513ef032007dbb8148121@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-SUMMARY:📺 EP 5 • Destino do Amor / Love Destiny
-URL:https://meowbls.com/series/destino-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2b10d757a75c14c9b99837e43a8cb4e481920747@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:📺 EP 6 • Destino do Amor / Love Destiny
-URL:https://meowbls.com/series/destino-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:cc7e70e54cb2dee6b6fce9f71abe8c30b653e91d@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:📺 EP 7 • Destino do Amor / Love Destiny
-URL:https://meowbls.com/series/destino-do-amor/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -103,78 +23,8 @@ UID:69bfef5f1067490ae5bd454a7341a925f28f2aeb@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
-SUMMARY:📺 EP 8 • Destino do Amor / Love Destiny
+SUMMARY:🐱 EP 8 • Destino do Amor / Love Destiny
 URL:https://meowbls.com/series/destino-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:0098bf4d354f273c680701b9c817b5814180ffb2@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260908
-DTEND;VALUE=DATE:20260909
-SUMMARY:📺 EP 9 • Destino do Amor / Love Destiny
-URL:https://meowbls.com/series/destino-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:b4257d8d20b6b2b8ac5f521ad454cc6612e8579a@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260915
-DTEND;VALUE=DATE:20260916
-SUMMARY:📺 EP 10 • FINAL • Destino do Amor / Love Destiny
-URL:https://meowbls.com/series/destino-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:4c39d51dd23757a2ff35f5821d505890d95b8fd3@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:📺 EP 12–13 • Lábios Azuis / Blue Lips
-URL:https://meowbls.com/series/labios-azuis/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ebd290c8ce5cbab6d5fd71efab26165763c50f0a@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:📺 EP 14–16 • FINAL • Lábios Azuis / Blue Lips
-URL:https://meowbls.com/series/labios-azuis/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:86446274e013f517b2acbc9ece8b0e34ef50d2e3@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:📺 EP 5 • Algoritmo do Amor / Love Algorithm
-URL:https://meowbls.com/series/algoritmo-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10a6b08c00e3974f4d74fd8b4951e2625e1f0bd4@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:📺 EP 6 • Algoritmo do Amor / Love Algorithm
-URL:https://meowbls.com/series/algoritmo-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:61821e449dfb4dc86106cbe1f9600cd70240379e@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:📺 EP 7 • Algoritmo do Amor / Love Algorithm
-URL:https://meowbls.com/series/algoritmo-do-amor/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -183,58 +33,8 @@ UID:d4ce9cb50507bdb9d1a2e661fc7fe68d085a5fa9@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:📺 EP 8 • Algoritmo do Amor / Love Algorithm
+SUMMARY:🐱 EP 8 • Algoritmo do Amor / Love Algorithm
 URL:https://meowbls.com/series/algoritmo-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2a1d4aa14d652db6280d6b920838a57fca13d0bf@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:📺 EP 9 • Algoritmo do Amor / Love Algorithm
-URL:https://meowbls.com/series/algoritmo-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:62d6940e8819f939510678cdc8098d7c137af662@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 EP 10 • FINAL • Algoritmo do Amor / Love Algorithm
-URL:https://meowbls.com/series/algoritmo-do-amor/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:8994aba8e33b39e09d36e574daf5d24718cc9423@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:📺 EP 2 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
-URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:b48df10353453d7e67ca2dfdb01db49c8018b28c@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:📺 EP 3 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
-URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:82782889d598e7eff6aa2b909b504bbcc7d09edb@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:📺 EP 4 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
-URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -243,68 +43,8 @@ UID:6a68a9417b819562822484b10d9143a64c524557@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:📺 EP 5 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+SUMMARY:🐱 EP 5 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
 URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:62d84921c9f0a7cac955254df80012647e9de887@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:📺 EP 6 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
-URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:10358a6d4827fe7c02322102595deb61208f9558@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 EP 7 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
-URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:34f7e882aa0a70926ab161dadf6173d70d5d0707@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:📺 EP 8 • FINAL • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
-URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:e8bf5811daa4e037132b423b04532c4468658191@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260812
-DTEND;VALUE=DATE:20260813
-SUMMARY:📺 EP 8 • Meu Verão com Você / My Summer of You
-URL:https://meowbls.com/series/meu-verao-com-voce/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:0b7693e7eeb30fd05f6cf58dc0090764146bb5bb@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:📺 EP 9 • Meu Verão com Você / My Summer of You
-URL:https://meowbls.com/series/meu-verao-com-voce/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:31bda9a4c8afe5ae53954c81675761b2026c8a00@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:📺 EP 10 • Meu Verão com Você / My Summer of You
-URL:https://meowbls.com/series/meu-verao-com-voce/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -313,118 +53,27 @@ UID:96c9bb612dc44a39567a646afa6bedcfd6f860d6@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260902
 DTEND;VALUE=DATE:20260903
-SUMMARY:📺 EP 11 • Meu Verão com Você / My Summer of You
+SUMMARY:🐱 EP 11 • Meu Verão com Você / My Summer of You
 URL:https://meowbls.com/series/meu-verao-com-voce/
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
-UID:b9291c29f3db9647dd2db2b952b2f3e9590e22cd@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:📺 EP 12 • FINAL • Meu Verão com Você / My Summer of You
-URL:https://meowbls.com/series/meu-verao-com-voce/
+UID:nour-ep4-2026-09-02@meow-bl-calendar
+DTSTAMP:20260901T150000Z
+DTSTART;VALUE=DATE:20260902
+DTEND;VALUE=DATE:20260903
+SUMMARY:🐱 EP 4 • O Segredo de Nour / Nour
+URL:https://meowbls.com/series/o-segredo-de-nour/
 TRANSP:TRANSPARENT
 END:VEVENT
-
-BEGIN:VEVENT
-UID:31e6e47e58ffc3a1ee6da7bfa4b8d16c327b53fe@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:📺 EP 5 • Seja Meu Player Dois / Be My Player Two
-URL:https://meowbls.com/series/seja-meu-player-dois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:66aacb8f58c303b1288f99c005403ca3898132f8@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:📺 EP 6 • Seja Meu Player Dois / Be My Player Two
-URL:https://meowbls.com/series/seja-meu-player-dois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:5dc5e29529c92bf026febc1cdc7b07f44162626a@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:📺 EP 7 • Seja Meu Player Dois / Be My Player Two
-URL:https://meowbls.com/series/seja-meu-player-dois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:6a5fb706e107ce1bcdf95e289581e4d78af24afe@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:📺 EP 8 • Seja Meu Player Dois / Be My Player Two
-URL:https://meowbls.com/series/seja-meu-player-dois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
 BEGIN:VEVENT
 UID:159d1bcd117721cb83faa4743c2c8213687212c3@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:📺 EP 9 • Seja Meu Player Dois / Be My Player Two
+SUMMARY:🐱 EP 9 • Seja Meu Player Dois / Be My Player Two
 URL:https://meowbls.com/series/seja-meu-player-dois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:3040cdbb00b67d56a4dc64488eb07c5d969667be@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:📺 EP 10 • FINAL • Seja Meu Player Dois / Be My Player Two
-URL:https://meowbls.com/series/seja-meu-player-dois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:c51a5a21fe86f8dd07af9558fbd4075d386e294c@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:📺 EP 8 • FINAL • Quando a Luz se Vai / When Light Fades
-URL:https://meowbls.com/series/quando-a-luz-se-vai/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2f1a202d83a1ea464fc84ac4581e791fba2735b0@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260813
-DTEND;VALUE=DATE:20260814
-SUMMARY:📺 EP 2 • Mozão Azarado / Unlucky Bae
-URL:https://meowbls.com/series/mozao-azarado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:6331340dc51fb566eaf3278df578ee02216329a4@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:📺 EP 3 • Mozão Azarado / Unlucky Bae
-URL:https://meowbls.com/series/mozao-azarado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:b68f33036df267240ebf791cbfe55abf21c41173@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:📺 EP 4 • Mozão Azarado / Unlucky Bae
-URL:https://meowbls.com/series/mozao-azarado/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -433,138 +82,27 @@ UID:f8dd0ec08efd055161e05b8b85a0b05dde548545@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260903
 DTEND;VALUE=DATE:20260904
-SUMMARY:📺 EP 5 • Mozão Azarado / Unlucky Bae
+SUMMARY:🐱 EP 5 • Mozão Azarado / Unlucky Bae
 URL:https://meowbls.com/series/mozao-azarado/
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
-UID:4de24e9aebc204ecab1286ff4d55a6de4e8d1090@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:📺 EP 6 • Mozão Azarado / Unlucky Bae
-URL:https://meowbls.com/series/mozao-azarado/
+UID:summertime-ep3-4-2026-09-03@meow-bl-calendar
+DTSTAMP:20260901T150000Z
+DTSTART;VALUE=DATE:20260903
+DTEND;VALUE=DATE:20260904
+SUMMARY:🐱 EP 3–4 • Época de Verão / Summertime
+URL:https://meowbls.com/series/epoca-de-verao/
 TRANSP:TRANSPARENT
 END:VEVENT
-
-BEGIN:VEVENT
-UID:adb66636350c4e7bfdf645405243781bd7cc80ab@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:📺 EP 7 • Mozão Azarado / Unlucky Bae
-URL:https://meowbls.com/series/mozao-azarado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:bb968cc6ead1249646012dc3052701fa45646e56@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:📺 EP 8 • Mozão Azarado / Unlucky Bae
-URL:https://meowbls.com/series/mozao-azarado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:0ef8b30c8d91b59ac2c3ffc996aa668327660226@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-SUMMARY:📺 EP 9 • Mozão Azarado / Unlucky Bae
-URL:https://meowbls.com/series/mozao-azarado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:d9042d766c39bd307a2e3cf19f61ffdc3bc82165@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261009
-SUMMARY:📺 EP 10 • FINAL • Mozão Azarado / Unlucky Bae
-URL:https://meowbls.com/series/mozao-azarado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:6f81f69aef21be0a6763d35f0f255ea69c6f99b3@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:📺 EP 8 • Não Seja Tão Sentimental / Don't Be Too Emotional
-URL:https://meowbls.com/series/nao-seja-tao-sentimental/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:dffcfaffa166296a13d1137d6575fedb042a0cc4@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 9 • Não Seja Tão Sentimental / Don't Be Too Emotional
-URL:https://meowbls.com/series/nao-seja-tao-sentimental/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:5a8c576ba980c3a452e8543767107033ee69e9c7@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 10 • Não Seja Tão Sentimental / Don't Be Too Emotional
-URL:https://meowbls.com/series/nao-seja-tao-sentimental/
-TRANSP:TRANSPARENT
-END:VEVENT
-
 BEGIN:VEVENT
 UID:7a0d24a21c73a5d5b7d70f502e4fdcd4f72a7426@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:📺 EP 11 • Não Seja Tão Sentimental / Don't Be Too Emotional
+SUMMARY:🐱 EP 11 • Não Seja Tão Sentimental / Don't Be Too Emotional
 URL:https://meowbls.com/series/nao-seja-tao-sentimental/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:534367a921d952f2a7789a5e26c9c8f06819230f@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:📺 EP 12 • FINAL • Não Seja Tão Sentimental / Don't Be Too Emotional
-URL:https://meowbls.com/series/nao-seja-tao-sentimental/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:534e5dc010a32a26c8209bf99058769303516d74@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:📺 EP 5 • Faça Dar Certo 2026 / Make it Right 2026
-URL:https://meowbls.com/series/faca-dar-certo-2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:4ba1fe12977dcd94151aabdac4c9b39f04ca33aa@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 6 • Faça Dar Certo 2026 / Make it Right 2026
-URL:https://meowbls.com/series/faca-dar-certo-2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:b8e01d4e2dfce60639161fcf167c14d484a6a548@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 7 • Faça Dar Certo 2026 / Make it Right 2026
-URL:https://meowbls.com/series/faca-dar-certo-2026/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -573,58 +111,8 @@ UID:19cde348a83f76db5c6e6a17b3140553ece3dc62@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:📺 EP 8 • Faça Dar Certo 2026 / Make it Right 2026
+SUMMARY:🐱 EP 8 • Faça Dar Certo 2026 / Make it Right 2026
 URL:https://meowbls.com/series/faca-dar-certo-2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:938a796c79a117bd77990a0fe4072e9b21af9a53@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:📺 EP 9 • Faça Dar Certo 2026 / Make it Right 2026
-URL:https://meowbls.com/series/faca-dar-certo-2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:7c73d255886ced5675b92a358439c9cfc8b1aa84@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:📺 EP 10 • FINAL • Faça Dar Certo 2026 / Make it Right 2026
-URL:https://meowbls.com/series/faca-dar-certo-2026/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:a3208da316e9b9b14d4699dc23bf46f7ccd29acd@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:📺 EP 4 • Crush Colegial Complicado / Class Crush Crisis
-URL:https://meowbls.com/series/crush-colegial-complicado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:95dddd6bb33bbfeda73ce57b6ab647d6b903e951@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 5 • Crush Colegial Complicado / Class Crush Crisis
-URL:https://meowbls.com/series/crush-colegial-complicado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ca3be6e60c1bfdba36331e37971fa8e7087be0e2@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 6 • Crush Colegial Complicado / Class Crush Crisis
-URL:https://meowbls.com/series/crush-colegial-complicado/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -633,48 +121,8 @@ UID:7838ba405d20654bf545aee575fd32b694c37711@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:📺 EP 7 • Crush Colegial Complicado / Class Crush Crisis
+SUMMARY:🐱 EP 7 • Crush Colegial Complicado / Class Crush Crisis
 URL:https://meowbls.com/series/crush-colegial-complicado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:fcf89a8f33dd223fe7c156fd3cef493e7d99793e@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:📺 EP 8 • FINAL • Crush Colegial Complicado / Class Crush Crisis
-URL:https://meowbls.com/series/crush-colegial-complicado/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2836b5c8a5f8adc75d4c3c3dfdec15647b7bbf82@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:📺 EP 7 • O Príncipe Servo / The Servant Prince
-URL:https://meowbls.com/series/o-principe-servo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:c5ee483f325bb797db21e5a778b83d0324aa513f@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 8 • O Príncipe Servo / The Servant Prince
-URL:https://meowbls.com/series/o-principe-servo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ae7446d834b2d558253188af17bb77dadd7887ed@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 9 • O Príncipe Servo / The Servant Prince
-URL:https://meowbls.com/series/o-principe-servo/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -683,678 +131,8 @@ UID:a617849c3d1b33477dff592b8933f60d7e7885e6@meow-bl-calendar
 DTSTAMP:20260813T221100Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:📺 EP 10 • FINAL • O Príncipe Servo / The Servant Prince
+SUMMARY:🐱 EP 10 • FINAL • O Príncipe Servo / The Servant Prince
 URL:https://meowbls.com/series/o-principe-servo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:5b7a9fd6632d667f0039cf57b0bcdc2e940920d2@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:📺 EP 5–6 • Nosso Ensaio Particular / Play Me
-URL:https://meowbls.com/series/nosso-ensaio-particular/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:7831983aaa033273fdf4785a31521e5a2bc2d9f4@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:📺 EP 15 • O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera / A Winter Sun Wakes the Wind in Spring Hills' Dream
-URL:https://meowbls.com/series/o-sol-de-inverno-desperta-o-vento-no-sonho-das-colinas-da-primavera/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:56be562273f497d1f548c14fe82abb294ce222e1@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 16 • FINAL • O Sol de Inverno Desperta o Vento no Sonho das Colinas da Primavera / A Winter Sun Wakes the Wind in Spring Hills' Dream
-URL:https://meowbls.com/series/o-sol-de-inverno-desperta-o-vento-no-sonho-das-colinas-da-primavera/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2dfd7398757ce86de48711f9473c8424f8752cf7@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:📺 EP 2 • Unhas de Garoto 2 / GelBoys 2
-URL:https://meowbls.com/series/unhas-de-garoto-2/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:851994e41d36d5973cafc1c2a7023100c5536fe4@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:📺 EP 3 • Unhas de Garoto 2 / GelBoys 2
-URL:https://meowbls.com/series/unhas-de-garoto-2/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:a7dc8030626b0bd9b755756c12c6619fc64a9c96@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:📺 EP 4 • Unhas de Garoto 2 / GelBoys 2
-URL:https://meowbls.com/series/unhas-de-garoto-2/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:47cd0e7f28eb3aa3c5b1518b67487db15f26ba8c@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:📺 EP 5 • Unhas de Garoto 2 / GelBoys 2
-URL:https://meowbls.com/series/unhas-de-garoto-2/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:e39b23f825893320ba684fb50be33027387bc703@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:📺 EP 6 • Unhas de Garoto 2 / GelBoys 2
-URL:https://meowbls.com/series/unhas-de-garoto-2/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:13cc260067b05726132e5f880f9c1444bcc39843@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:📺 EP 7 • Unhas de Garoto 2 / GelBoys 2
-URL:https://meowbls.com/series/unhas-de-garoto-2/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:fb4317a945afc45b26e80046d4b88d1372006000@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:📺 EP 8 • FINAL • Unhas de Garoto 2 / GelBoys 2
-URL:https://meowbls.com/series/unhas-de-garoto-2/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:95528e941811603dd6658e239359aefa5aacd4ad@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:📺 EP 3 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
-URL:https://meowbls.com/series/seu-ceu-japao/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:f0bd2045aed88c63fd89717a07c7304c2ce3b8e6@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:📺 EP 4 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
-URL:https://meowbls.com/series/seu-ceu-japao/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:7b455ee23384fc47b9198b3cd4ad87cf1522e7ca@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:📺 EP 5 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
-URL:https://meowbls.com/series/seu-ceu-japao/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:5a0ad226712d2e680e62074a2b2ac70a42b4bb4d@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:📺 EP 6 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
-URL:https://meowbls.com/series/seu-ceu-japao/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:77733de2589f71163eb42572065a8a24c8bb0547@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:📺 EP 7 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
-URL:https://meowbls.com/series/seu-ceu-japao/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:96694a0382b674c763e64dcec7994c3a742522c9@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260919
-DTEND;VALUE=DATE:20260920
-SUMMARY:📺 EP 8 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
-URL:https://meowbls.com/series/seu-ceu-japao/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:27fe4a7027eaa519ba5a248d921fdb3fa286d61d@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260926
-DTEND;VALUE=DATE:20260927
-SUMMARY:📺 EP 9 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
-URL:https://meowbls.com/series/seu-ceu-japao/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:38a93e8483a6f5e131aa79b7bf54537afbc2cb17@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20261003
-DTEND;VALUE=DATE:20261004
-SUMMARY:📺 EP 10 • FINAL • Seu Céu: Japão / Your Sky: Hare Nochi Koi
-URL:https://meowbls.com/series/seu-ceu-japao/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:4fe7a292864e9dc68cc600d4200552af309cfefd@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:📺 EP 6 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
-URL:https://meowbls.com/series/seu-verao-minha-tempestade/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:8ad82b314d4b72ad5e9acb902fef15e38d42f741@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260822
-DTEND;VALUE=DATE:20260823
-SUMMARY:📺 EP 7 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
-URL:https://meowbls.com/series/seu-verao-minha-tempestade/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:7579c2b867531e54bdc98721b91d03ab6c1c3778@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:📺 EP 8 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
-URL:https://meowbls.com/series/seu-verao-minha-tempestade/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:228af44b30ae5adde8a5c24c706d27010d0f4c14@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260905
-DTEND;VALUE=DATE:20260906
-SUMMARY:📺 EP 9 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
-URL:https://meowbls.com/series/seu-verao-minha-tempestade/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:9ccf42deeeb24bf24bc528574f145e38c4924e8f@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260912
-DTEND;VALUE=DATE:20260913
-SUMMARY:📺 EP 10 • FINAL • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
-URL:https://meowbls.com/series/seu-verao-minha-tempestade/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:08fbd70ced6682a8fc8ce4dca80dbea7d76fd838@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:📺 EP 9 • A Linha do Horizonte / The Edge of Horizon
-URL:https://meowbls.com/series/a-linha-do-horizonte/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ff376f78c9e5e424c9833e2959af2b256e3138f3@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:📺 EP 4 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
-URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:b802eb064e2ca6feb2eca3853fdb253b6fe2433b@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:📺 EP 5 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
-URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:f51800cb5997298c7ce273f62fdee552a9f13fc6@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:📺 EP 6 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
-URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:4063471b8c3b6023e8c28a409a9028d3d456aef1@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:📺 EP 7 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
-URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:fe891bb28ff08720905eec7fcfb6d6346f5bb03d@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:📺 EP 8 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
-URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:26f9b876e118b8f38956ba007e75b0ab32e4a047@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:📺 EP 9 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
-URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:549aa744425c7122c39d9a978cab10cf6f1f3fca@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:📺 EP 10 • FINAL • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
-URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:114cb0a1fb469b9682895d69ea0489be4767bfca@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:📺 EP 4 • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:db6ed47a900199729fd621e4bf317ecd4117985a@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:📺 EP 5 • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:de99155396c978c8c92f740e7d18cd56f9d00066@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:📺 EP 6 • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:936118b2cf13a4339f5b15d4ce035e86fe37c966@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:📺 EP 7 • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:3f7c1b411fa4bf0cd11beb8a7a5afa21badbbed9@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:📺 EP 8 • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:57f7c43c36fb4c96f1b8b32804323d1931d6becf@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:📺 EP 9 • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:29238fce2557403d4ea108e98dcfd277f1f65734@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:📺 EP 10 • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:2a3419beb9a90203d5597bf14aaefb04c4b34f9d@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20261004
-DTEND;VALUE=DATE:20261005
-SUMMARY:📺 EP 11 • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:75709dc88e8a618f753c7abb24fa6fda2b4d71c8@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20261011
-DTEND;VALUE=DATE:20261012
-SUMMARY:📺 EP 12 • FINAL • Seu Terceiro / Your Third
-URL:https://meowbls.com/series/seu-terceiro/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:c826bf0c075ffce0449d4b9fbe7cc064f93f5fb1@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:📺 EP 4 • Ponto Decisivo / Match Point
-URL:https://meowbls.com/series/ponto-decisivo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:232351899cd447b8d2091095b0db6e2a948d506a@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:📺 EP 5 • Ponto Decisivo / Match Point
-URL:https://meowbls.com/series/ponto-decisivo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:8db3c482fdd49adbe72f6eca144c74d7ee489f11@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:📺 EP 6 • Ponto Decisivo / Match Point
-URL:https://meowbls.com/series/ponto-decisivo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:a6d22aea61439f18ad4587348ebfa8d3cf164372@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260906
-DTEND;VALUE=DATE:20260907
-SUMMARY:📺 EP 7 • Ponto Decisivo / Match Point
-URL:https://meowbls.com/series/ponto-decisivo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:77d5f31c29cfe4539a1107a3225a5f59c5a32e29@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260913
-DTEND;VALUE=DATE:20260914
-SUMMARY:📺 EP 8 • Ponto Decisivo / Match Point
-URL:https://meowbls.com/series/ponto-decisivo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:59e80d8b1b87ce222fadf6de1599747de50bba9f@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
-SUMMARY:📺 EP 9 • Ponto Decisivo / Match Point
-URL:https://meowbls.com/series/ponto-decisivo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ff84447319fb8a81cf1f02ca690def69bd05797f@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260927
-DTEND;VALUE=DATE:20260928
-SUMMARY:📺 EP 10 • FINAL • Ponto Decisivo / Match Point
-URL:https://meowbls.com/series/ponto-decisivo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:c1e8c239de9cc693070177fbcc1ab59a6ea2fc65@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-SUMMARY:📺 EP 7 • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
-URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:812ce9274595c9c6961540a54b9930e4af83190f@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:📺 EP 8 • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
-URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:e84eadff34dd54c94214c6a6b7ce6ad36d4fcbb3@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:📺 EP 9 • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
-URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:6e516dda2d31f59cafd1f0f9684135aee8373d00@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:📺 EP 10 • FINAL • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
-URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:235ea5f8db16b45a1a5a389675fb101bef5af9f7@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260817
-DTEND;VALUE=DATE:20260818
-SUMMARY:📺 EP 2 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:ae09b75d8f6ab5378744666eef067f6a4400a8f3@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260824
-DTEND;VALUE=DATE:20260825
-SUMMARY:📺 EP 3 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:0d7d0ec51ad8a56e3b63f77e04ec93301eabc773@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260831
-DTEND;VALUE=DATE:20260901
-SUMMARY:📺 EP 4 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:1b1b14e2d97fdb4e5d29c7304bd7d561a74df34d@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260908
-SUMMARY:📺 EP 5 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:fb8cf42d0ccdbb6886d539dc3b23609b93518db3@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260915
-SUMMARY:📺 EP 6 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:f13e82b82d7b4fab4cccb33f6a1dddb3825d041b@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260921
-DTEND;VALUE=DATE:20260922
-SUMMARY:📺 EP 7 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:dd33e5c3da640251fbe2c3d77f50433fe720a6a6@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20260928
-DTEND;VALUE=DATE:20260929
-SUMMARY:📺 EP 8 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:8497a251bae7e0ac72a67793f42811bfeed767b5@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:📺 EP 9 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:bcbe2414f1021d8d4069898b8f5cb60abc432889@meow-bl-calendar
-DTSTAMP:20260813T221100Z
-DTSTART;VALUE=DATE:20261012
-DTEND;VALUE=DATE:20261013
-SUMMARY:📺 EP 10 • FINAL • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:popular-serizawa-ep1-20260810@meow-bl-calendar
-DTSTAMP:20260814T221000Z
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-SUMMARY:📺 EP 1 • ESTREIA • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
-URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:e4e9cb5e0bb658c0933d6c662bb168bc7ac41ced@meow-bl-calendar
-DTSTAMP:20260815T000000Z
-DTSTART;VALUE=DATE:20260811
-DTEND;VALUE=DATE:20260812
-SUMMARY:📺 EPISÓDIOS ESPECIAIS • Pr4 Sempre Você 2 / Fourever You Part 2
-URL:https://meowbls.com/series/pr4-sempre-voce-2/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:54a0cb5bc6b32cb9f3b4bf6c0954766edc15b5a1@meow-bl-calendar
-DTSTAMP:20260815T222000Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:📺 EP 1 • ESTREIA • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:133168af50c835dc81eb1b09aa3928a3b242d169@meow-bl-calendar
-DTSTAMP:20260815T222000Z
-DTSTART;VALUE=DATE:20260814
-DTEND;VALUE=DATE:20260815
-SUMMARY:📺 EP 1 • ESTREIA • Curso Básico de Esquisitice 101 / WEIRDO-101
-URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:amor-agridoce-ep11-20260815@meow-bl-calendar
-DTSTAMP:20260815T222000Z
-DTSTART;VALUE=DATE:20260815
-DTEND;VALUE=DATE:20260816
-SUMMARY:📺 EP 11 • Amor Agridoce / Bittersweet Love
-URL:https://meowbls.com/series/amor-agridoce/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:harutora-ep2-20260821@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 2 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:harutora-ep3-20260828@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 3 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -1363,88 +141,8 @@ UID:harutora-ep4-20260904@meow-bl-calendar
 DTSTAMP:20260815T225500Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:📺 EP 4 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
+SUMMARY:🐱 EP 4 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
 URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:harutora-ep5-20260911@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
-SUMMARY:📺 EP 5 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:harutora-ep6-20260918@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20260918
-DTEND;VALUE=DATE:20260919
-SUMMARY:📺 EP 6 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:harutora-ep7-20260925@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20260925
-DTEND;VALUE=DATE:20260926
-SUMMARY:📺 EP 7 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:harutora-ep8-20261002@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:📺 EP 8 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:harutora-ep9-20261009@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20261009
-DTEND;VALUE=DATE:20261010
-SUMMARY:📺 EP 9 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:harutora-ep10-20261016@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20261016
-DTEND;VALUE=DATE:20261017
-SUMMARY:📺 EP 10 • FINAL • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
-URL:https://meowbls.com/series/calma-ai-harutora-kun/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:weirdo101-ep2-20260821@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 2 • Curso Básico de Esquisitice 101 / WEIRDO-101
-URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:weirdo101-ep3-20260828@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 3 • Curso Básico de Esquisitice 101 / WEIRDO-101
-URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -1453,8 +151,295 @@ UID:weirdo101-ep4-20260904@meow-bl-calendar
 DTSTAMP:20260815T225500Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
-SUMMARY:📺 EP 4 • Curso Básico de Esquisitice 101 / WEIRDO-101
+SUMMARY:🐱 EP 4 • Curso Básico de Esquisitice 101 / WEIRDO-101
 URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:16948bb5a75441fdbfe8580ec3121b92@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🐱 EP 5 • Cinzas / Ash
+URL:https://meowbls.com/series/cinzas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f07c2059204b75b930f18f5ae8b692@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🐱 EP 9–10 • Conectado a Você / Connecting To You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0fb8f66dc4a940e881d16c38549be1c9@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🐱 EP 5–6 • Beijo ou Bala / Kiss or Kill
+URL:https://meowbls.com/series/beijo-ou-bala/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:abed9138b5614a908d31eeea9279d196@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:🔮 EP 1–4 • The Last Oath — possível Meow
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:47cd0e7f28eb3aa3c5b1518b67487db15f26ba8c@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:🐱 EP 5 • Unhas de Garoto 2 / GelBoys 2
+URL:https://meowbls.com/series/unhas-de-garoto-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5a0ad226712d2e680e62074a2b2ac70a42b4bb4d@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:🐱 EP 6 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+URL:https://meowbls.com/series/seu-ceu-japao/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:228af44b30ae5adde8a5c24c706d27010d0f4c14@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:🐱 EP 9 • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
+URL:https://meowbls.com/series/seu-verao-minha-tempestade/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2a9ee1bdeb5543ec9942d20475c29300@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:🐱 EP 2 • Sr. Fanboy / Mr. Fanboy
+URL:https://meowbls.com/series/sr-fanboy/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0475cf358d344517b1d31caed353e708@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260905
+DTEND;VALUE=DATE:20260906
+SUMMARY:🐱 EP 2 • Seu Maníaco / You Maniac
+URL:https://meowbls.com/series/seu-maniaco/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:4063471b8c3b6023e8c28a409a9028d3d456aef1@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:🐱 EP 7 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:936118b2cf13a4339f5b15d4ce035e86fe37c966@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:🐱 EP 7 • Seu Terceiro / Your Third
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:a6d22aea61439f18ad4587348ebfa8d3cf164372@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:🐱 EP 7 • Ponto Decisivo / Match Point
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:26e656bdc6dc455db36e84996d2ae40c@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260906
+DTEND;VALUE=DATE:20260907
+SUMMARY:🐱 EP 4 • Amor Ao Cubo / Love X3
+URL:https://meowbls.com/series/amor-ao-cubo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:6e516dda2d31f59cafd1f0f9684135aee8373d00@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🐱 EP 10 • FINAL • Uma Bundinha Sexy Não Serve? / Are the Sexy Buttocks Not Good?
+URL:https://meowbls.com/series/uma-bundinha-sexy-nao-serve/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:1b1b14e2d97fdb4e5d29c7304bd7d561a74df34d@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260907
+DTEND;VALUE=DATE:20260908
+SUMMARY:🐱 EP 5 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:e9fd2f1ae23ffcbe09b1fb2d0b40ff07dc8bac8a@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🐱 EP 11 • Nó / Knot
+URL:https://meowbls.com/series/no/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:0098bf4d354f273c680701b9c817b5814180ffb2@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260908
+DTEND;VALUE=DATE:20260909
+SUMMARY:🐱 EP 9 • Destino do Amor / Love Destiny
+URL:https://meowbls.com/series/destino-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:2a1d4aa14d652db6280d6b920838a57fca13d0bf@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🐱 EP 9 • Algoritmo do Amor / Love Algorithm
+URL:https://meowbls.com/series/algoritmo-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:62d84921c9f0a7cac955254df80012647e9de887@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🐱 EP 6 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b9291c29f3db9647dd2db2b952b2f3e9590e22cd@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🐱 EP 12 • FINAL • Meu Verão com Você / My Summer of You
+URL:https://meowbls.com/series/meu-verao-com-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nour-ep5-2026-09-09@meow-bl-calendar
+DTSTAMP:20260901T150000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🐱 EP 5 • O Segredo de Nour / Nour
+URL:https://meowbls.com/series/o-segredo-de-nour/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:lovebetter-s2-ep2@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260909
+DTEND;VALUE=DATE:20260910
+SUMMARY:🐱 EP 2 • Amor é Melhor na Segunda Vez 2 / Love Is Better the Second Time Around Season 2
+URL:https://meowbls.com/series/amor-e-melhor-na-segunda-vez-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:3040cdbb00b67d56a4dc64488eb07c5d969667be@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🐱 EP 10 • FINAL • Seja Meu Player Dois / Be My Player Two
+URL:https://meowbls.com/series/seja-meu-player-dois/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:4de24e9aebc204ecab1286ff4d55a6de4e8d1090@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🐱 EP 6 • Mozão Azarado / Unlucky Bae
+URL:https://meowbls.com/series/mozao-azarado/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:summertime-ep5-6-2026-09-10@meow-bl-calendar
+DTSTAMP:20260901T150000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🐱 EP 5–6 • Época de Verão / Summertime
+URL:https://meowbls.com/series/epoca-de-verao/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:9320ac99eef0430d8da60b109f646dc1@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260910
+DTEND;VALUE=DATE:20260911
+SUMMARY:🔮 EP 1 • Till I See You
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:534367a921d952f2a7789a5e26c9c8f06819230f@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🐱 EP 12 • FINAL • Não Seja Tão Sentimental / Don't Be Too Emotional
+URL:https://meowbls.com/series/nao-seja-tao-sentimental/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:938a796c79a117bd77990a0fe4072e9b21af9a53@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🐱 EP 9 • Faça Dar Certo 2026 / Make it Right 2026
+URL:https://meowbls.com/series/faca-dar-certo-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:fcf89a8f33dd223fe7c156fd3cef493e7d99793e@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🐱 EP 8 • FINAL • Crush Colegial Complicado / Class Crush Crisis
+URL:https://meowbls.com/series/crush-colegial-complicado/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:harutora-ep5-20260911@meow-bl-calendar
+DTSTAMP:20260815T225500Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🐱 EP 5 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
+URL:https://meowbls.com/series/calma-ai-harutora-kun/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -1463,8 +448,236 @@ UID:weirdo101-ep5-20260911@meow-bl-calendar
 DTSTAMP:20260815T225500Z
 DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
-SUMMARY:📺 EP 5 • Curso Básico de Esquisitice 101 / WEIRDO-101
+SUMMARY:🐱 EP 5 • Curso Básico de Esquisitice 101 / WEIRDO-101
 URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ac3afffce022437b94142a76516a08a9@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🐱 EP 6 • Cinzas / Ash
+URL:https://meowbls.com/series/cinzas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:a002a7e0cb6443b2ad5341c1472f4f45@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🐱 EP 11–12 • Conectado a Você / Connecting To You
+URL:https://meowbls.com/series/conectado-a-voce/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e9957887b04c41bab35f263cca0224fd@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🐱 EP 7–8 • Beijo ou Bala / Kiss or Kill
+URL:https://meowbls.com/series/beijo-ou-bala/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:ab762b98278947bc86366ce6a2d83480@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260911
+DTEND;VALUE=DATE:20260912
+SUMMARY:🔮 EP 5–6 • The Last Oath — possível Meow
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:e39b23f825893320ba684fb50be33027387bc703@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:🐱 EP 6 • Unhas de Garoto 2 / GelBoys 2
+URL:https://meowbls.com/series/unhas-de-garoto-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:77733de2589f71163eb42572065a8a24c8bb0547@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:🐱 EP 7 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+URL:https://meowbls.com/series/seu-ceu-japao/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:9ccf42deeeb24bf24bc528574f145e38c4924e8f@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:🐱 EP 10 • FINAL • Seu Verão\, Minha Tempestade / Summer Clouds Bring Love and Chaos
+URL:https://meowbls.com/series/seu-verao-minha-tempestade/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:656080ea2bc748ffa694127fa9c4a55e@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:🐱 EP 3 • Sr. Fanboy / Mr. Fanboy
+URL:https://meowbls.com/series/sr-fanboy/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:cc6fb5df56f643cb9f0113a9ddf778de@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:🐱 EP 3 • Seu Maníaco / You Maniac
+URL:https://meowbls.com/series/seu-maniaco/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:afddd1b997084ff8846e22c85e9800bb@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260913
+SUMMARY:🔮 EP 1 • Police in Love
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fe891bb28ff08720905eec7fcfb6d6346f5bb03d@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:🐱 EP 8 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:3f7c1b411fa4bf0cd11beb8a7a5afa21badbbed9@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:🐱 EP 8 • Seu Terceiro / Your Third
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:77d5f31c29cfe4539a1107a3225a5f59c5a32e29@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:🐱 EP 8 • Ponto Decisivo / Match Point
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:f58afd8b2a314f0ea1969c9b794244ab@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+SUMMARY:🐱 EP 5 • Amor Ao Cubo / Love X3
+URL:https://meowbls.com/series/amor-ao-cubo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:fb8cf42d0ccdbb6886d539dc3b23609b93518db3@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260914
+DTEND;VALUE=DATE:20260915
+SUMMARY:🐱 EP 6 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b6be86a0c15619b99a6ac7d604d879aa15c930c5@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🐱 EP 12 • FINAL • Nó / Knot
+URL:https://meowbls.com/series/no/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:b4257d8d20b6b2b8ac5f521ad454cc6612e8579a@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:🐱 EP 10 • FINAL • Destino do Amor / Love Destiny
+URL:https://meowbls.com/series/destino-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:62d6940e8819f939510678cdc8098d7c137af662@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🐱 EP 10 • FINAL • Algoritmo do Amor / Love Algorithm
+URL:https://meowbls.com/series/algoritmo-do-amor/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:10358a6d4827fe7c02322102595deb61208f9558@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🐱 EP 7 • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nour-ep6-2026-09-16@meow-bl-calendar
+DTSTAMP:20260901T150000Z
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+SUMMARY:🐱 EP 6 • O Segredo de Nour / Nour
+URL:https://meowbls.com/series/o-segredo-de-nour/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:adb66636350c4e7bfdf645405243781bd7cc80ab@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🐱 EP 7 • Mozão Azarado / Unlucky Bae
+URL:https://meowbls.com/series/mozao-azarado/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:summertime-ep7-8-2026-09-17@meow-bl-calendar
+DTSTAMP:20260901T150000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260918
+SUMMARY:🐱 EP 7–8 • Época de Verão / Summertime
+URL:https://meowbls.com/series/epoca-de-verao/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:7c73d255886ced5675b92a358439c9cfc8b1aa84@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🐱 EP 10 • FINAL • Faça Dar Certo 2026 / Make it Right 2026
+URL:https://meowbls.com/series/faca-dar-certo-2026/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:harutora-ep6-20260918@meow-bl-calendar
+DTSTAMP:20260815T225500Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🐱 EP 6 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
+URL:https://meowbls.com/series/calma-ai-harutora-kun/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -1473,8 +686,186 @@ UID:weirdo101-ep6-20260918@meow-bl-calendar
 DTSTAMP:20260815T225500Z
 DTSTART;VALUE=DATE:20260918
 DTEND;VALUE=DATE:20260919
-SUMMARY:📺 EP 6 • Curso Básico de Esquisitice 101 / WEIRDO-101
+SUMMARY:🐱 EP 6 • Curso Básico de Esquisitice 101 / WEIRDO-101
 URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:55ca06af9f984097a187de8041b3db5c@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🐱 EP 7 • Cinzas / Ash
+URL:https://meowbls.com/series/cinzas/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:17dca1d97c3a4ef5b7bb6bff459b4f3c@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🐱 EP 9–10 • Beijo ou Bala / Kiss or Kill
+URL:https://meowbls.com/series/beijo-ou-bala/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:c6fe9b35d7f342868b4f971dc66373c0@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🔮 EP 7–8 • The Last Oath — possível Meow
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:37c722c3a2f746db87c01e3954276161@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🔮 EP 1 • The Crow Club
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1df8629c3b42f68a42a2deca81b64b@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260918
+DTEND;VALUE=DATE:20260919
+SUMMARY:🔮 EP 1 • Oops! Mysterious Sounds
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:13cc260067b05726132e5f880f9c1444bcc39843@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🐱 EP 7 • Unhas de Garoto 2 / GelBoys 2
+URL:https://meowbls.com/series/unhas-de-garoto-2/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:96694a0382b674c763e64dcec7994c3a742522c9@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🐱 EP 8 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+URL:https://meowbls.com/series/seu-ceu-japao/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:54131a7f0e9e43d490219d137f67a372@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🐱 EP 4 • Sr. Fanboy / Mr. Fanboy
+URL:https://meowbls.com/series/sr-fanboy/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:0292def0e2154fad8cbf441ed6103c0c@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260920
+SUMMARY:🐱 EP 4 • Seu Maníaco / You Maniac
+URL:https://meowbls.com/series/seu-maniaco/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:26f9b876e118b8f38956ba007e75b0ab32e4a047@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:🐱 EP 9 • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:57f7c43c36fb4c96f1b8b32804323d1931d6becf@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:🐱 EP 9 • Seu Terceiro / Your Third
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:59e80d8b1b87ce222fadf6de1599747de50bba9f@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:🐱 EP 9 • Ponto Decisivo / Match Point
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:8b6df2d7ffa4454f89a6a8242af85501@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+SUMMARY:🐱 EP 6 • Amor Ao Cubo / Love X3
+URL:https://meowbls.com/series/amor-ao-cubo/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:f13e82b82d7b4fab4cccb33f6a1dddb3825d041b@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+SUMMARY:🐱 EP 7 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:34f7e882aa0a70926ab161dadf6173d70d5d0707@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🐱 EP 8 • FINAL • Depois de mudar de lugar\, o garoto atrás de mim se apaixona por mim / After Moving Seats\, the Boy Behind Me Has a Crush on Me
+URL:https://meowbls.com/series/depois-de-mudar-de-lugar-o-garoto-atras-de-mim-se-apaixona-por-mim/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:nour-ep7-2026-09-23@meow-bl-calendar
+DTSTAMP:20260901T150000Z
+DTSTART;VALUE=DATE:20260923
+DTEND;VALUE=DATE:20260924
+SUMMARY:🐱 EP 7 • O Segredo de Nour / Nour
+URL:https://meowbls.com/series/o-segredo-de-nour/
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:bb968cc6ead1249646012dc3052701fa45646e56@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🐱 EP 8 • Mozão Azarado / Unlucky Bae
+URL:https://meowbls.com/series/mozao-azarado/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:summertime-ep9-10-2026-09-24@meow-bl-calendar
+DTSTAMP:20260901T150000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:🐱 EP 9–10 • FINAL • Época de Verão / Summertime
+URL:https://meowbls.com/series/epoca-de-verao/
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
+BEGIN:VEVENT
+UID:harutora-ep7-20260925@meow-bl-calendar
+DTSTAMP:20260815T225500Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🐱 EP 7 • Calma Aí\, Harutora-kun / Wait a Minute\, Harutora-kun
+URL:https://meowbls.com/series/calma-ai-harutora-kun/
 TRANSP:TRANSPARENT
 END:VEVENT
 
@@ -1483,294 +874,148 @@ UID:weirdo101-ep7-20260925@meow-bl-calendar
 DTSTAMP:20260815T225500Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260926
-SUMMARY:📺 EP 7 • Curso Básico de Esquisitice 101 / WEIRDO-101
+SUMMARY:🐱 EP 7 • Curso Básico de Esquisitice 101 / WEIRDO-101
 URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
 TRANSP:TRANSPARENT
 END:VEVENT
 
 BEGIN:VEVENT
-UID:weirdo101-ep8-20261002@meow-bl-calendar
-DTSTAMP:20260815T225500Z
-DTSTART;VALUE=DATE:20261002
-DTEND;VALUE=DATE:20261003
-SUMMARY:📺 EP 8 • FINAL • Curso Básico de Esquisitice 101 / WEIRDO-101
-URL:https://meowbls.com/series/curso-basico-de-esquisitice-101/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:amor-ao-cubo-ep1-20260816@meow-bl-calendar
-DTSTAMP:20260816T220600Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:📺 EP 1 • ESTREIA • Amor Ao Cubo / Love³
-URL:https://meowbls.com/series/amor-ao-cubo/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:conectado-a-voce-ep1-20260816@meow-bl-calendar
-DTSTAMP:20260816T220600Z
-DTSTART;VALUE=DATE:20260816
-DTEND;VALUE=DATE:20260817
-SUMMARY:📺 EP 1–4 • ESTREIA • Conectado a Você / Connecting to You
-URL:https://meowbls.com/series/conectado-a-voce/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:lost-to-light-specials-20260818@meow-bl-calendar
-DTSTAMP:20260819T224600Z
-DTSTART;VALUE=DATE:20260818
-DTEND;VALUE=DATE:20260819
-SUMMARY:📺 ESPECIAL 1–2 • Me Perdi na Luz / Lost to Light
-URL:https://meowbls.com/series/me-perdi-na-luz/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:beijo-ou-bala-ep1-2-20260819@meow-bl-calendar
-DTSTAMP:20260819T224600Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:📺 EP 1–2 • ESTREIA • Beijo ou Bala
-URL:https://meowbls.com/series/beijo-ou-bala/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:cinzas-ep1-2-20260819@meow-bl-calendar
-DTSTAMP:20260821T220900Z
-DTSTART;VALUE=DATE:20260819
-DTEND;VALUE=DATE:20260820
-SUMMARY:📺 EP 1–2 • ESTREIA • Cinzas
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:conectado-a-voce-ep5-6-20260821@meow-bl-calendar
-DTSTAMP:20260821T220900Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 5–6 • Conectado a Você / Connecting to You
-URL:https://meowbls.com/series/conectado-a-voce/
-TRANSP:TRANSPARENT
-END:VEVENT
-
-BEGIN:VEVENT
-UID:play-me-final-20260820@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260820
-DTEND;VALUE=DATE:20260821
-SUMMARY:📺 EP 7–8 • FINAL • Nosso Ensaio Particular / Play Me
-URL:https://meowbls.com/series/nosso-ensaio-particular/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:linha-ep10-final-20260829@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:📺 EP 10 • FINAL • A Linha do Horizonte / The Edge of Horizon
-URL:https://meowbls.com/series/a-linha-do-horizonte/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:connected-ep7-8-20260828@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 7–8 • Conectado a Você / Connecting to You
-URL:https://meowbls.com/series/conectado-a-voce/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:beijo-ep3-4-20260828@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 3–4 • Beijo ou Bala
-URL:https://meowbls.com/series/beijo-ou-bala/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:cinzas-ep3-20260821@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260821
-DTEND;VALUE=DATE:20260822
-SUMMARY:📺 EP 3 • Cinzas
+UID:e54c813036d14f06bf4553819270bc99@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🐱 EP 8 • Cinzas / Ash
 URL:https://meowbls.com/series/cinzas/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:cinzas-ep4-20260828@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-SUMMARY:📺 EP 4 • Cinzas
-URL:https://meowbls.com/series/cinzas/
+UID:0bb388f81f224bc4943fb9eb7f992431@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🐱 EP 11–12 • Beijo ou Bala / Kiss or Kill
+URL:https://meowbls.com/series/beijo-ou-bala/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:amor-cubo-ep2-20260823@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260823
-DTEND;VALUE=DATE:20260824
-SUMMARY:📺 EP 2 • Amor Ao Cubo / Love³
-URL:https://meowbls.com/series/amor-ao-cubo/
+UID:fdf24e2688144876ae90828248b92adc@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+SUMMARY:🔮 EP 9–10 • The Last Oath — possível Meow
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:amor-cubo-ep3-20260830@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260830
-DTEND;VALUE=DATE:20260831
-SUMMARY:📺 EP 3 • Amor Ao Cubo / Love³
-URL:https://meowbls.com/series/amor-ao-cubo/
+UID:fb4317a945afc45b26e80046d4b88d1372006000@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:🐱 EP 8 • FINAL • Unhas de Garoto 2 / GelBoys 2
+URL:https://meowbls.com/series/unhas-de-garoto-2/
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:nour-ep1-2-20260825@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260825
-DTEND;VALUE=DATE:20260826
-SUMMARY:📺 EP 1–2 • ESTREIA • O Segredo de Nour / Nour
-URL:https://meowbls.com/series/o-segredo-de-nour/
+UID:27fe4a7027eaa519ba5a248d921fdb3fa286d61d@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:🐱 EP 9 • Seu Céu: Japão / Your Sky: Hare Nochi Koi
+URL:https://meowbls.com/series/seu-ceu-japao/
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
-UID:nour-ep3-20260826@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260826
-DTEND;VALUE=DATE:20260827
-SUMMARY:📺 EP 3 • O Segredo de Nour / Nour
-URL:https://meowbls.com/series/o-segredo-de-nour/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:summertime-ep1-2-20260827@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260827
-DTEND;VALUE=DATE:20260828
-SUMMARY:📺 EP 1–2 • ESTREIA • Época de Verão / Summertime
-URL:https://meowbls.com/series/epoca-de-verao/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:you-maniac-ep1-20260829@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:📺 EP 1 • ESTREIA • Seu Maníaco / You Maniac
-URL:https://meowbls.com/series/seu-maniaco/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:mr-fanboy-ep1-20260829@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260829
-DTEND;VALUE=DATE:20260830
-SUMMARY:📺 EP 1 • ESTREIA • Sr. Fanboy / Mr. Fanboy
+UID:31418c0797924b3aba5b954df82ae0e4@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:🐱 EP 5 • Sr. Fanboy / Mr. Fanboy
 URL:https://meowbls.com/series/sr-fanboy/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nour-ep4-2026-09-02@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260902
-DTEND;VALUE=DATE:20260903
-SUMMARY:📺 EP 4 • O Segredo de Nour / Nour
-URL:https://meowbls.com/series/o-segredo-de-nour/
+UID:dd15dbfd0c034257896e5ba396aa05f5@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:🐱 EP 5 • Seu Maníaco / You Maniac
+URL:https://meowbls.com/series/seu-maniaco/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nour-ep5-2026-09-09@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260909
-DTEND;VALUE=DATE:20260910
-SUMMARY:📺 EP 5 • O Segredo de Nour / Nour
-URL:https://meowbls.com/series/o-segredo-de-nour/
+UID:1385c75c8cb64a9c8d7a26b21b9aa24d@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260926
+DTEND;VALUE=DATE:20260927
+SUMMARY:🔮 EP 1 • Not Yours
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nour-ep6-2026-09-16@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260916
-DTEND;VALUE=DATE:20260917
-SUMMARY:📺 EP 6 • O Segredo de Nour / Nour
-URL:https://meowbls.com/series/o-segredo-de-nour/
+UID:549aa744425c7122c39d9a978cab10cf6f1f3fca@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:🐱 EP 10 • FINAL • Dever Primeiro\, Beijo Depois / Duty First\, Kiss Later
+URL:https://meowbls.com/series/dever-primeiro-beijo-depois/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:29238fce2557403d4ea108e98dcfd277f1f65734@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:🐱 EP 10 • Seu Terceiro / Your Third
+URL:https://meowbls.com/series/seu-terceiro/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:ff84447319fb8a81cf1f02ca690def69bd05797f@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:🐱 EP 10 • FINAL • Ponto Decisivo / Match Point
+URL:https://meowbls.com/series/ponto-decisivo/
+TRANSP:TRANSPARENT
+END:VEVENT
+
+BEGIN:VEVENT
+UID:5161c60dc9ec466e8b580cb98a273d60@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260927
+DTEND;VALUE=DATE:20260928
+SUMMARY:🐱 EP 7 • Amor Ao Cubo / Love X3
+URL:https://meowbls.com/series/amor-ao-cubo/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nour-ep7-2026-09-23@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260923
-DTEND;VALUE=DATE:20260924
-SUMMARY:📺 EP 7 • O Segredo de Nour / Nour
-URL:https://meowbls.com/series/o-segredo-de-nour/
+UID:dd33e5c3da640251fbe2c3d77f50433fe720a6a6@meow-bl-calendar
+DTSTAMP:20260813T221100Z
+DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20260929
+SUMMARY:🐱 EP 8 • O Garoto Popular é Estranho Comigo / Popular Serizawa Acts Weird around Me
+URL:https://meowbls.com/series/o-garoto-popular-e-estranho-comigo/
 TRANSP:TRANSPARENT
 END:VEVENT
+
 BEGIN:VEVENT
 UID:nour-ep8-2026-09-30@meow-bl-calendar
 DTSTAMP:20260901T150000Z
 DTSTART;VALUE=DATE:20260930
 DTEND;VALUE=DATE:20261001
-SUMMARY:📺 EP 8 • O Segredo de Nour / Nour
+SUMMARY:🐱 EP 8 • O Segredo de Nour / Nour
 URL:https://meowbls.com/series/o-segredo-de-nour/
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
-UID:nour-ep9-2026-10-07@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20261007
-DTEND;VALUE=DATE:20261008
-SUMMARY:📺 EP 9 • O Segredo de Nour / Nour
-URL:https://meowbls.com/series/o-segredo-de-nour/
+UID:82996e6d9bfd4c16ba4eb9b2a58bcff7@meow-bl-calendar
+DTSTAMP:20260904T170000Z
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:🔮 EP 1 • Boy, with Caution
 TRANSP:TRANSPARENT
 END:VEVENT
-BEGIN:VEVENT
-UID:nour-ep10-2026-10-14@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20261014
-DTEND;VALUE=DATE:20261015
-SUMMARY:📺 EP 10 • FINAL • O Segredo de Nour / Nour
-URL:https://meowbls.com/series/o-segredo-de-nour/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:summertime-ep3-4-2026-09-03@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260903
-DTEND;VALUE=DATE:20260904
-SUMMARY:📺 EP 3–4 • Época de Verão / Summertime
-URL:https://meowbls.com/series/epoca-de-verao/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:summertime-ep5-6-2026-09-10@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260911
-SUMMARY:📺 EP 5–6 • Época de Verão / Summertime
-URL:https://meowbls.com/series/epoca-de-verao/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:summertime-ep7-8-2026-09-17@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260917
-DTEND;VALUE=DATE:20260918
-SUMMARY:📺 EP 7–8 • Época de Verão / Summertime
-URL:https://meowbls.com/series/epoca-de-verao/
-TRANSP:TRANSPARENT
-END:VEVENT
-BEGIN:VEVENT
-UID:summertime-ep9-10-2026-09-24@meow-bl-calendar
-DTSTAMP:20260901T150000Z
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-SUMMARY:📺 EP 9–10 • FINAL • Época de Verão / Summertime
-URL:https://meowbls.com/series/epoca-de-verao/
-TRANSP:TRANSPARENT
-END:VEVENT
+END:VCALENDAR
 END:VCALENDAR
